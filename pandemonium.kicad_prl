@@ -14,6 +14,7 @@
       "vias": 1.0,
       "zones": 0.6
     },
+    "ratsnest_display_mode": 0,
     "selection_filter": {
       "dimensions": true,
       "footprints": true,
@@ -37,7 +38,6 @@
       8,
       9,
       10,
-      11,
       12,
       13,
       15,
@@ -64,11 +64,11 @@
       39,
       40
     ],
-    "visible_layers": "ffff7ff_ffffffff",
+    "visible_layers": "fffffff_ffffffff",
     "zone_display_mode": 1
   },
   "meta": {
-    "filename": "Alpha-ISO BLE.kicad_prl",
+    "filename": "pandemonium.kicad_prl",
     "version": 3
   },
   "project": {
