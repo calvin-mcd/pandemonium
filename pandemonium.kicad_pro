@@ -489,7 +489,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "Alpha-ISO BLE.step",
+      "step": "pandemonium.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
