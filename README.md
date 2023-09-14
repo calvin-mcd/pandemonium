@@ -1,6 +1,6 @@
 # Pandemonium
  
-Pandemonium is an alpha staggered ISO pcb with KLE by HaiZeus#0411. It uses an [XIAO nRF52840](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html) for bluetooth support. The desgin for that is based on [NoahK#1290's](https://kiserdesigns.bigcartel.com/) [Asymptote](https://github.com/KiserDesigns/Asymptote). 
+Pandemonium is an alpha staggered ISO pcb with KLE by HaiZeus#0411. It uses an [XIAO nRF52840](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html) for bluetooth support. The desgin for that is based on [NoahK#1290's](https://kiserdesigns.bigcartel.com/) [Asymptote](https://github.com/KiserDesigns/Asymptote). For a build guide you can mostly refer to the steps from the [Asymptote Guide](https://github.com/KiserDesigns/Asymptote#asymptote-build-guide).
 
 ## Layout
 
@@ -16,6 +16,10 @@ HaiZeus#0411 is designing a case for 3d printing.
   
 ![](https://github.com/calvin-mcd/pandemonium/blob/main/Images/IMG_1803.jpg)
 ![](https://github.com/calvin-mcd/pandemonium/blob/main/Images/IMG_1804.jpg)
+
+## Firmware
+
+Firmware is being written in zmk by Falconloft. Has yet to be tested.
 
 ## Todo
 
