@@ -12,7 +12,9 @@ Pandemonium is an alpha staggered ISO pcb with KLE by HaiZeus#0411. It uses an [
 
 ## Case
 
-HaiZeus#0411 is designing a case for 3d printing.
+HaiZeus#0411 is refining the case design for 3d printing. 
+
+DO NOT USE the included files yet. Not fully tested.
   
 ![](https://github.com/calvin-mcd/pandemonium/blob/main/Images/IMG_1803.jpg)
 ![](https://github.com/calvin-mcd/pandemonium/blob/main/Images/IMG_1804.jpg)
