@@ -1419,7 +1419,7 @@
   )
 
   (symbol (lib_id "Device:L_Small") (at 97.79 24.13 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 844252a3-bbfa-41dd-9694-b97285f03949)
     (property "Reference" "L5" (at 97.79 21.59 90)
       (effects (font (size 1.27 1.27)))
@@ -1648,12 +1648,12 @@
   )
 
   (symbol (lib_id "Power_Protection:USBLC6-2P6") (at 113.03 36.83 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid e6e74575-130d-4f20-aa26-8fb315839523)
     (property "Reference" "U4" (at 113.03 21.59 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "USBLC6-2P6" (at 113.03 24.13 0)
+    (property "Value" "USBLC6-2P6" (at 121.285 46.355 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Package_TO_SOT_SMD:SOT-666" (at 113.03 49.53 0)
