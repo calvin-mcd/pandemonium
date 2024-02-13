@@ -10,9 +10,9 @@ Pandemonium is an alpha staggered ISO pcb with KLE by HaiZeus. It uses an [XIAO 
 
 [Link](http://www.keyboard-layout-editor.com/#/gists/b0a595a186fab9d96212efed305105f0)
 
-## Case
+## Cases
 
-HaiZeus designed the case to be either used for resin or FDM printing. Use the respective top file for that. 
+1) HaiZeus designed the case to be either used for resin or FDM printing. Use the respective top file for that. 
 
 A universal plate file is included as well as two thick plate options for different bottomrow layouts.  
 
@@ -25,6 +25,9 @@ The bottom has cutouts for SKUF rubber feet available at a couple different onli
 ![](https://github.com/calvin-mcd/pandemonium/blob/main/Images/IMG_1803.jpg)
 ![](https://github.com/calvin-mcd/pandemonium/blob/main/Images/IMG_1804.jpg)
 ![](https://github.com/calvin-mcd/pandemonium/blob/main/Images/97259A101_Low-Strength20Steel20Thin20Square20NutM.png)
+
+2) There is now also a Hull Style Case made by Ty-Fitz for the OG pandenonium pcb.
+https://github.com/Ty-Fitz/Pandi-hull
 
 ## Firmware
 
