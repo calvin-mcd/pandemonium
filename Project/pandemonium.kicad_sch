@@ -1504,7 +1504,7 @@
     (property "Value" "D_Small" (at 229.235 93.98 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
-    (property "Footprint" "Keebio-Parts:Diode-Hybrid-Back" (at 226.695 92.075 90)
+    (property "Footprint" "kbd:D3_TH_SMD_v2" (at 226.695 92.075 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 226.695 92.075 90)
@@ -1519,7 +1519,7 @@
     (pin "1" (uuid 1c16575d-45b5-42d9-856c-de025ef86c01))
     (pin "2" (uuid 1182cb7e-6ef2-499d-a012-b5ae514316b8))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "D13") (unit 1)
         )
@@ -1543,7 +1543,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "S1") (unit 1)
         )
@@ -1569,7 +1569,7 @@
     (pin "1" (uuid ed3a60ae-adac-4c7a-b338-50f53cdcb4f1))
     (pin "2" (uuid 28d582ad-49e4-4681-887b-6467e081d74b))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "MX17") (unit 1)
         )
@@ -1586,7 +1586,7 @@
     (property "Value" "D_Small" (at 216.535 71.12 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
-    (property "Footprint" "Keebio-Parts:Diode-Hybrid-Back" (at 213.995 69.215 90)
+    (property "Footprint" "kbd:D3_TH_SMD_v2" (at 213.995 69.215 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 213.995 69.215 90)
@@ -1601,7 +1601,7 @@
     (pin "1" (uuid 9f096d59-c214-48fc-b1f9-8f6110b16c74))
     (pin "2" (uuid c308baf1-bf54-46ff-b2b3-0934acf070cd))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "D4") (unit 1)
         )
@@ -1627,7 +1627,7 @@
     (pin "1" (uuid 3fd26dcf-fd85-4b12-86df-60d0be1b70bf))
     (pin "2" (uuid 954c658a-5958-4772-9faf-7b3e9b4a0662))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "MX23") (unit 1)
         )
@@ -1644,7 +1644,7 @@
     (property "Value" "D_Small" (at 178.435 68.58 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
-    (property "Footprint" "Keebio-Parts:Diode-Hybrid-Back" (at 175.895 66.675 90)
+    (property "Footprint" "kbd:D3_TH_SMD_v2" (at 175.895 66.675 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 175.895 66.675 90)
@@ -1659,7 +1659,7 @@
     (pin "1" (uuid d7d40861-c6ba-41eb-8c50-8d27e3a4a201))
     (pin "2" (uuid ea42ba96-651b-4795-82cf-08863b312f9f))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "D17") (unit 1)
         )
@@ -1685,7 +1685,7 @@
     (pin "1" (uuid 210b4f29-1077-4c9a-a626-af3cbc5acad4))
     (pin "2" (uuid 47d5cbae-33b2-4bd8-8b2d-77ee118473fb))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "MX35") (unit 1)
         )
@@ -1711,7 +1711,7 @@
     (pin "1" (uuid 4c63ba59-6246-4455-b8dd-003f231b42ba))
     (pin "2" (uuid 54ed8bf6-53aa-461f-8cca-d373c50b33e3))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "MX14") (unit 1)
         )
@@ -1737,7 +1737,7 @@
     (pin "1" (uuid c7e4158a-ef96-4297-9e02-9aa4dd108674))
     (pin "2" (uuid 748a7fbe-897a-4aee-b50a-42c818d15ce4))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "MX28") (unit 1)
         )
@@ -1763,7 +1763,7 @@
     (pin "1" (uuid 784926e5-4988-4934-af86-b5f7104b373f))
     (pin "2" (uuid 62bf044c-6731-4220-a297-d887c83bdb06))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "MX18") (unit 1)
         )
@@ -1780,7 +1780,7 @@
     (property "Value" "D_Small" (at 153.035 68.58 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
-    (property "Footprint" "Keebio-Parts:Diode-Hybrid-Back" (at 150.495 66.675 90)
+    (property "Footprint" "kbd:D3_TH_SMD_v2" (at 150.495 66.675 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 150.495 66.675 90)
@@ -1795,7 +1795,7 @@
     (pin "1" (uuid 24c5b961-16a9-46a1-bdb6-0acb3efb7350))
     (pin "2" (uuid 4be6bca2-d3e8-46cf-ad62-98c3ab3c4a3b))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "D3") (unit 1)
         )
@@ -1812,7 +1812,7 @@
     (property "Value" "D_Small" (at 191.77 71.12 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
-    (property "Footprint" "Keebio-Parts:Diode-Hybrid-Back" (at 189.23 69.215 90)
+    (property "Footprint" "kbd:D3_TH_SMD_v2" (at 189.23 69.215 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 189.23 69.215 90)
@@ -1827,7 +1827,7 @@
     (pin "1" (uuid 4d71c89d-17f1-4915-b366-86f372adf9e3))
     (pin "2" (uuid d6761d7b-f014-4cf5-8fbe-119b086cfb57))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "D28") (unit 1)
         )
@@ -1844,7 +1844,7 @@
     (property "Value" "D_Small" (at 267.335 45.72 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
-    (property "Footprint" "Keebio-Parts:Diode-Hybrid-Back" (at 264.795 43.815 90)
+    (property "Footprint" "kbd:D3_TH_SMD_v2" (at 264.795 43.815 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 264.795 43.815 90)
@@ -1859,7 +1859,7 @@
     (pin "1" (uuid 57b6bbfe-b49d-4e39-a3c0-7bbde150852b))
     (pin "2" (uuid f92d3d4c-546b-44db-a309-f5c94c0ad053))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "D26") (unit 1)
         )
@@ -1885,7 +1885,7 @@
     (pin "1" (uuid fe33ed40-f48c-490e-8971-72267cc2e5e1))
     (pin "2" (uuid 2a54a704-72cd-477a-b487-b648121df17f))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "MX27") (unit 1)
         )
@@ -1911,7 +1911,7 @@
     (pin "1" (uuid 1f275835-62c1-46b8-852d-27a1738eed58))
     (pin "2" (uuid 3cdf1dfe-3573-4ce0-8c05-bb45db889292))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "MX44") (unit 1)
         )
@@ -1928,7 +1928,7 @@
     (property "Value" "D_Small" (at 242.57 45.72 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
-    (property "Footprint" "Keebio-Parts:Diode-Hybrid-Back" (at 240.03 43.815 90)
+    (property "Footprint" "kbd:D3_TH_SMD_v2" (at 240.03 43.815 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 240.03 43.815 90)
@@ -1943,7 +1943,7 @@
     (pin "1" (uuid 65230f21-b010-4bb8-914f-2f8d2886b4c1))
     (pin "2" (uuid aaedef4c-b3e9-44cf-8493-2e4607574c4a))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "D16") (unit 1)
         )
@@ -1969,7 +1969,7 @@
     (pin "1" (uuid 698cfb25-88d1-4e3c-91c3-7f47448aee7a))
     (pin "2" (uuid ee726481-f031-49b0-a8ec-d8ebeb0ef740))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "MX19") (unit 1)
         )
@@ -1986,7 +1986,7 @@
     (property "Value" "D_Small" (at 254.635 93.98 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
-    (property "Footprint" "Keebio-Parts:Diode-Hybrid-Back" (at 252.095 92.075 90)
+    (property "Footprint" "kbd:D3_TH_SMD_v2" (at 252.095 92.075 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 252.095 92.075 90)
@@ -2001,7 +2001,7 @@
     (pin "1" (uuid 9885f5f9-f53a-41c5-9d44-5f4f9b84b49e))
     (pin "2" (uuid eb613712-50de-4cc1-a9d8-32dc16adfd8a))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "D37") (unit 1)
         )
@@ -2018,7 +2018,7 @@
     (property "Value" "D_Small" (at 229.235 119.38 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
-    (property "Footprint" "Keebio-Parts:Diode-Hybrid-Back" (at 226.695 117.475 90)
+    (property "Footprint" "kbd:D3_TH_SMD_v2" (at 226.695 117.475 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 226.695 117.475 90)
@@ -2033,7 +2033,7 @@
     (pin "1" (uuid 491d9cef-5357-4dc0-ae9a-643f69be33e3))
     (pin "2" (uuid 3c65ecfd-41df-453c-a4a4-8ad4eae193df))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "D40") (unit 1)
         )
@@ -2050,7 +2050,7 @@
     (property "Value" "D_Small" (at 165.735 71.12 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
-    (property "Footprint" "Keebio-Parts:Diode-Hybrid-Back" (at 163.195 69.215 90)
+    (property "Footprint" "kbd:D3_TH_SMD_v2" (at 163.195 69.215 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 163.195 69.215 90)
@@ -2065,7 +2065,7 @@
     (pin "1" (uuid f29701c6-1c0e-4d75-a1aa-b62de39aed17))
     (pin "2" (uuid dff62220-cfa2-41b5-b054-d0bfdfc88de1))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "D10") (unit 1)
         )
@@ -2082,7 +2082,7 @@
     (property "Value" "D_Small" (at 153.035 119.38 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
-    (property "Footprint" "Keebio-Parts:Diode-Hybrid-Back" (at 150.495 117.475 90)
+    (property "Footprint" "kbd:D3_TH_SMD_v2" (at 150.495 117.475 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 150.495 117.475 90)
@@ -2097,7 +2097,7 @@
     (pin "1" (uuid c19717b4-cc86-4ab5-a541-fef7d8bdfad0))
     (pin "2" (uuid 601ae6fd-d7ab-41a5-aa8d-3f5c7ce8a803))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "D7") (unit 1)
         )
@@ -2143,7 +2143,7 @@
     (pin "8" (uuid a1347a9b-1700-4e69-958b-121da7bfab1d))
     (pin "9" (uuid 1fe6c9c4-9e49-4825-8b83-31112bc2efb8))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "J1") (unit 1)
         )
@@ -2174,7 +2174,7 @@
     (pin "1" (uuid 30dee861-c968-40c8-9fa6-a8cfcfc7e8d8))
     (pin "2" (uuid e2483851-23b5-4c90-bf59-990125cac003))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "MX1") (unit 1)
         )
@@ -2198,7 +2198,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "S3") (unit 1)
         )
@@ -2224,7 +2224,7 @@
     (pin "1" (uuid 8b180803-41e8-41a9-9ca4-8303823d4fdb))
     (pin "2" (uuid dc87e58f-4c51-4e8a-84d1-e3be41bfc81c))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "MX5") (unit 1)
         )
@@ -2250,7 +2250,7 @@
     (pin "1" (uuid 846d3949-561f-44b0-b06a-5dda6390d553))
     (pin "2" (uuid a8fdb000-6734-40c8-93dd-3e59ca0ad66a))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "MX32") (unit 1)
         )
@@ -2276,7 +2276,7 @@
     (pin "1" (uuid e510410f-e279-4b88-8317-d0ba0b869125))
     (pin "2" (uuid 771f98f4-9d89-4bb1-9a4e-703d3e91f2fe))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "MX22") (unit 1)
         )
@@ -2293,7 +2293,7 @@
     (property "Value" "D_Small" (at 178.435 93.98 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
-    (property "Footprint" "Keebio-Parts:Diode-Hybrid-Back" (at 175.895 92.075 90)
+    (property "Footprint" "kbd:D3_TH_SMD_v2" (at 175.895 92.075 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 175.895 92.075 90)
@@ -2308,7 +2308,7 @@
     (pin "1" (uuid 31602966-8a74-46c0-bbb1-539381168df4))
     (pin "2" (uuid ec4c6676-64a5-4f68-a2bd-ff8d687d7b1a))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "D19") (unit 1)
         )
@@ -2325,7 +2325,7 @@
     (property "Value" "D_Small" (at 191.77 45.72 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
-    (property "Footprint" "Keebio-Parts:Diode-Hybrid-Back" (at 189.23 43.815 90)
+    (property "Footprint" "kbd:D3_TH_SMD_v2" (at 189.23 43.815 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 189.23 43.815 90)
@@ -2340,7 +2340,7 @@
     (pin "1" (uuid c88c1142-018b-4a22-b016-d1d608c0274a))
     (pin "2" (uuid 328a73d1-731b-44fd-8fdd-58cd8bce24a0))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "D22") (unit 1)
         )
@@ -2366,7 +2366,7 @@
     (pin "1" (uuid 65c40b70-838d-4ced-bf5d-faa23fc412fa))
     (pin "2" (uuid 0215e868-dee6-42e9-950f-e204f094fce2))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "MX20") (unit 1)
         )
@@ -2392,7 +2392,7 @@
     (pin "1" (uuid 8434f21f-c6c7-4af6-93bd-cf51b7f8cb62))
     (pin "2" (uuid 447afe84-06b5-4d53-8e56-eba097313045))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "MX15") (unit 1)
         )
@@ -2409,7 +2409,7 @@
     (property "Value" "D_Small" (at 254.635 68.58 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
-    (property "Footprint" "Keebio-Parts:Diode-Hybrid-Back" (at 252.095 66.675 90)
+    (property "Footprint" "kbd:D3_TH_SMD_v2" (at 252.095 66.675 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 252.095 66.675 90)
@@ -2424,7 +2424,7 @@
     (pin "1" (uuid 3af8cceb-fc46-4425-b0c1-1a820eabd412))
     (pin "2" (uuid 177c75a0-95b6-4510-b227-7469cfde547d))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "D31") (unit 1)
         )
@@ -2448,7 +2448,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "S2") (unit 1)
         )
@@ -2472,7 +2472,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "S9") (unit 1)
         )
@@ -2498,7 +2498,7 @@
     (pin "1" (uuid 9141ec4c-5010-46df-a4f9-7f105cdfaaeb))
     (pin "2" (uuid 26716072-2119-48a9-b402-8bca351f6266))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "MX39") (unit 1)
         )
@@ -2515,7 +2515,7 @@
     (property "Value" "D_Small" (at 229.235 43.18 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
-    (property "Footprint" "Keebio-Parts:Diode-Hybrid-Back" (at 226.695 41.275 90)
+    (property "Footprint" "kbd:D3_TH_SMD_v2" (at 226.695 41.275 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 226.695 41.275 90)
@@ -2530,7 +2530,7 @@
     (pin "1" (uuid c36c799e-a940-4da9-a8c7-b5c889310187))
     (pin "2" (uuid fb379d3d-e159-473c-bd47-c95193daaae1))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "D9") (unit 1)
         )
@@ -2547,7 +2547,7 @@
     (property "Value" "D_Small" (at 216.535 121.92 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
-    (property "Footprint" "Keebio-Parts:Diode-Hybrid-Back" (at 213.995 120.015 90)
+    (property "Footprint" "kbd:D3_TH_SMD_v2" (at 213.995 120.015 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 213.995 120.015 90)
@@ -2562,7 +2562,7 @@
     (pin "1" (uuid 05257bd6-a93b-4baf-9561-e07314cb5f8c))
     (pin "2" (uuid ffcaa482-537f-4d6e-838e-de2169ab12b4))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "D24") (unit 1)
         )
@@ -2587,7 +2587,7 @@
     )
     (pin "1" (uuid 3db3fc53-bc7b-4627-86e8-72f666cc6273))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "#PWR08") (unit 1)
         )
@@ -2618,7 +2618,7 @@
     (pin "1" (uuid 1832d28b-c7b7-429e-bf64-0212c97b435c))
     (pin "2" (uuid 2000948c-0e98-4810-b899-ab9f77483ed9))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "MX43") (unit 1)
         )
@@ -2644,7 +2644,7 @@
     (pin "1" (uuid 9ed413c5-78d8-4a30-85a7-203fee6ba86b))
     (pin "2" (uuid bd93cff5-b431-4aed-9031-719e63ffe42d))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "MX37") (unit 1)
         )
@@ -2661,7 +2661,7 @@
     (property "Value" "D_Small" (at 153.035 93.98 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
-    (property "Footprint" "Keebio-Parts:Diode-Hybrid-Back" (at 150.495 92.075 90)
+    (property "Footprint" "kbd:D3_TH_SMD_v2" (at 150.495 92.075 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 150.495 92.075 90)
@@ -2676,7 +2676,7 @@
     (pin "1" (uuid a4cab0a5-c84b-4f7b-bbc3-0023798c7d92))
     (pin "2" (uuid 3af3fe1d-67d0-4f5f-952f-451bf0a82ef3))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "D5") (unit 1)
         )
@@ -2702,7 +2702,7 @@
     (pin "1" (uuid e44c4adf-a20c-41e4-a445-d5f97fd10b95))
     (pin "2" (uuid 3efa0c1e-e1be-4c00-996d-016b2906af8c))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "MX7") (unit 1)
         )
@@ -2719,7 +2719,7 @@
     (property "Value" "D_Small" (at 242.57 96.52 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
-    (property "Footprint" "Keebio-Parts:Diode-Hybrid-Back" (at 240.03 94.615 90)
+    (property "Footprint" "kbd:D3_TH_SMD_v2" (at 240.03 94.615 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 240.03 94.615 90)
@@ -2734,7 +2734,7 @@
     (pin "1" (uuid 980a6349-fcea-4c2e-bf7e-0393248a62dd))
     (pin "2" (uuid 86ad4f04-e8a9-4169-a845-d711920772eb))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "D20") (unit 1)
         )
@@ -2760,7 +2760,7 @@
     (pin "1" (uuid 61f3eada-2f8f-48d1-bbd2-2f84f21cf153))
     (pin "2" (uuid 74f7fc69-8648-434d-b80a-81967e90ebeb))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "MX16") (unit 1)
         )
@@ -2777,7 +2777,7 @@
     (property "Value" "D_Small" (at 216.535 45.72 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
-    (property "Footprint" "Keebio-Parts:Diode-Hybrid-Back" (at 213.995 43.815 90)
+    (property "Footprint" "kbd:D3_TH_SMD_v2" (at 213.995 43.815 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 213.995 43.815 90)
@@ -2792,7 +2792,7 @@
     (pin "1" (uuid ed41f3d4-5b24-4d7f-8b14-b72b27cf0817))
     (pin "2" (uuid 4b6ca6f4-f94d-4cc5-b835-74ec4c9817c9))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "D2") (unit 1)
         )
@@ -2809,7 +2809,7 @@
     (property "Value" "D_Small" (at 178.435 43.18 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
-    (property "Footprint" "Keebio-Parts:Diode-Hybrid-Back" (at 175.895 41.275 90)
+    (property "Footprint" "kbd:D3_TH_SMD_v2" (at 175.895 41.275 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 175.895 41.275 90)
@@ -2824,7 +2824,7 @@
     (pin "1" (uuid a5fb907c-76fe-4562-8adf-cb04fcc7edcb))
     (pin "2" (uuid 5c500f21-641a-4e35-8539-e33eeab028c3))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "D15") (unit 1)
         )
@@ -2848,7 +2848,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "S4") (unit 1)
         )
@@ -2865,7 +2865,7 @@
     (property "Value" "D_Small" (at 216.535 96.52 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
-    (property "Footprint" "Keebio-Parts:Diode-Hybrid-Back" (at 213.995 94.615 90)
+    (property "Footprint" "kbd:D3_TH_SMD_v2" (at 213.995 94.615 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 213.995 94.615 90)
@@ -2880,7 +2880,7 @@
     (pin "1" (uuid 4da41e9d-6e70-4c32-91ae-2ce5a1a26e4e))
     (pin "2" (uuid 120807bc-b3cb-45da-92ad-9d9297ff0173))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "D6") (unit 1)
         )
@@ -2897,7 +2897,7 @@
     (property "Value" "D_Small" (at 203.835 43.18 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
-    (property "Footprint" "Keebio-Parts:Diode-Hybrid-Back" (at 201.295 41.275 90)
+    (property "Footprint" "kbd:D3_TH_SMD_v2" (at 201.295 41.275 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 201.295 41.275 90)
@@ -2912,7 +2912,7 @@
     (pin "1" (uuid 81016392-8d06-46c8-8ffd-ae5c81092f30))
     (pin "2" (uuid 1005f080-6072-41ab-84d4-4ff593a4e738))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "D23") (unit 1)
         )
@@ -2938,7 +2938,7 @@
     (pin "1" (uuid 60321fd2-7e57-4021-b45e-03340f5f9a3e))
     (pin "2" (uuid c7dad8d5-53ab-4704-8a1a-36f08f19d3e9))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "MX4") (unit 1)
         )
@@ -2964,7 +2964,7 @@
     (pin "1" (uuid 3e310479-cb36-42ca-992b-79acfe3ba7c6))
     (pin "2" (uuid 380e7a71-b60f-4c44-ac05-478accc353e6))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "MX25") (unit 1)
         )
@@ -2981,7 +2981,7 @@
     (property "Value" "D_Small" (at 153.035 43.18 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
-    (property "Footprint" "Keebio-Parts:Diode-Hybrid-Back" (at 150.495 41.275 90)
+    (property "Footprint" "kbd:D3_TH_SMD_v2" (at 150.495 41.275 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 150.495 41.275 90)
@@ -2996,7 +2996,7 @@
     (pin "1" (uuid 8be20724-ce3f-4510-b798-c9204db391b4))
     (pin "2" (uuid 287fca17-403b-4db2-b3e8-ab5210d6b594))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "D1") (unit 1)
         )
@@ -3013,7 +3013,7 @@
     (property "Value" "D_Small" (at 203.835 68.58 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
-    (property "Footprint" "Keebio-Parts:Diode-Hybrid-Back" (at 201.295 66.675 90)
+    (property "Footprint" "kbd:D3_TH_SMD_v2" (at 201.295 66.675 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 201.295 66.675 90)
@@ -3028,7 +3028,7 @@
     (pin "1" (uuid e66d2631-7dfc-479a-a523-bddb72b5b5b6))
     (pin "2" (uuid 2360c398-78bb-4403-a66e-5e0879f1bfa8))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "D29") (unit 1)
         )
@@ -3054,7 +3054,7 @@
     (pin "1" (uuid 07efe3eb-6361-4204-964f-bd99559f83e4))
     (pin "2" (uuid e4345f2b-1143-42dd-a48c-7ca7cf76f64a))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "MX9") (unit 1)
         )
@@ -3080,7 +3080,7 @@
     (pin "1" (uuid 4a4d26c3-f22f-49cc-9d30-f4c34184d844))
     (pin "2" (uuid 901b3fbf-bd72-4d0b-9790-5dcadd26a343))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "MX36") (unit 1)
         )
@@ -3106,7 +3106,7 @@
     (pin "1" (uuid 8ccf6463-2ae6-4de7-a885-f97bfd5626b2))
     (pin "2" (uuid 0ddd339e-3bc7-43d0-8b10-60dd670be7d4))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "MX34") (unit 1)
         )
@@ -3123,7 +3123,7 @@
     (property "Value" "D_Small" (at 242.57 121.92 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
-    (property "Footprint" "Keebio-Parts:Diode-Hybrid-Back" (at 240.03 120.015 90)
+    (property "Footprint" "kbd:D3_TH_SMD_v2" (at 240.03 120.015 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 240.03 120.015 90)
@@ -3138,7 +3138,7 @@
     (pin "1" (uuid b092cda3-a85e-4f13-9ae0-5369861031b0))
     (pin "2" (uuid 8d9a1c70-f3d5-4753-8cdb-44ed3b19f8b5))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "D27") (unit 1)
         )
@@ -3164,7 +3164,7 @@
     (pin "1" (uuid b6892f60-1d37-4ce1-805b-1f98eadc7a32))
     (pin "2" (uuid 87fc0ce7-ab34-40cb-bf29-8e5bf170f0d9))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "MX13") (unit 1)
         )
@@ -3190,7 +3190,7 @@
     (pin "1" (uuid f9f9c8ca-d6d1-4aee-aefa-48334d9c6594))
     (pin "2" (uuid 8d2d84a4-2681-4e32-8b8d-8fc3e1e3c5ac))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "J2") (unit 1)
         )
@@ -3221,7 +3221,7 @@
     (pin "1" (uuid 01854b3c-87b2-4d5a-9a25-a242705f286e))
     (pin "2" (uuid fe23efc0-8e47-413f-95bf-ea7d8d678e31))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "MX8") (unit 1)
         )
@@ -3247,7 +3247,7 @@
     (pin "1" (uuid c19a4bc0-98a0-44d6-b545-b1e440d48909))
     (pin "2" (uuid dc4d9c2c-b492-47cc-8e6c-48b287105be3))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "MX31") (unit 1)
         )
@@ -3271,7 +3271,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "S8") (unit 1)
         )
@@ -3288,7 +3288,7 @@
     (property "Value" "D_Small" (at 203.835 119.38 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
-    (property "Footprint" "Keebio-Parts:Diode-Hybrid-Back" (at 201.295 117.475 90)
+    (property "Footprint" "kbd:D3_TH_SMD_v2" (at 201.295 117.475 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 201.295 117.475 90)
@@ -3303,7 +3303,7 @@
     (pin "1" (uuid 55474826-82c1-4301-9e02-91862ce5481c))
     (pin "2" (uuid d010755a-5c57-4b62-8cd5-fce97e07b1a5))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "D21") (unit 1)
         )
@@ -3329,7 +3329,7 @@
     (pin "1" (uuid aa01a46a-f689-4fee-82fe-f9466ec827e1))
     (pin "2" (uuid 67aa3869-e0e4-4469-b17f-da9b53b6c1ae))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "MX30") (unit 1)
         )
@@ -3355,7 +3355,7 @@
     (pin "1" (uuid 16459219-db3e-47e8-87ea-8595ead780c2))
     (pin "2" (uuid c7b4a96b-101e-43e8-a22a-b0c1ad7f56f6))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "MX26") (unit 1)
         )
@@ -3381,7 +3381,7 @@
     (pin "1" (uuid 46d2ced4-7ad7-45b3-acf0-567ca0bd2902))
     (pin "2" (uuid 2409ff0d-b3af-4d07-9b6e-840c86a17956))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "MX29") (unit 1)
         )
@@ -3407,7 +3407,7 @@
     (pin "1" (uuid af141c1a-2ef5-4ffb-b892-9ab167ba0070))
     (pin "2" (uuid 3143516d-44c7-4e04-8682-665214801e0f))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "MX12") (unit 1)
         )
@@ -3433,7 +3433,7 @@
     (pin "1" (uuid a6c25945-72c7-49d1-874c-fbb546da2d3c))
     (pin "2" (uuid 91a8b394-cb6b-4e3c-aafb-b9c1d34deaea))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "MX21") (unit 1)
         )
@@ -3459,7 +3459,7 @@
     (pin "1" (uuid 165d900e-3fa6-4f6f-8442-3536a67127da))
     (pin "2" (uuid 025a8039-30aa-428d-89cc-a3a53a4fed38))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "MX10") (unit 1)
         )
@@ -3476,7 +3476,7 @@
     (property "Value" "D_Small" (at 178.435 119.38 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
-    (property "Footprint" "Keebio-Parts:Diode-Hybrid-Back" (at 175.895 117.475 90)
+    (property "Footprint" "kbd:D3_TH_SMD_v2" (at 175.895 117.475 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 175.895 117.475 90)
@@ -3491,7 +3491,7 @@
     (pin "1" (uuid 4c4d80eb-04e1-4cf1-8210-5ee03244374e))
     (pin "2" (uuid 6b984286-6c46-49af-b9fd-253f631555ad))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "D14") (unit 1)
         )
@@ -3508,7 +3508,7 @@
     (property "Value" "D_Small" (at 254.635 43.18 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
-    (property "Footprint" "Keebio-Parts:Diode-Hybrid-Back" (at 252.095 41.275 90)
+    (property "Footprint" "kbd:D3_TH_SMD_v2" (at 252.095 41.275 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 252.095 41.275 90)
@@ -3523,7 +3523,7 @@
     (pin "1" (uuid 8aa5b637-1223-4b77-a69d-00f1508eec80))
     (pin "2" (uuid 526d915f-424c-4194-ac1f-3a67606116da))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "D25") (unit 1)
         )
@@ -3549,7 +3549,7 @@
     (pin "1" (uuid 9e9bb61b-a395-4bdf-90cf-e6ff81cb2fdd))
     (pin "2" (uuid dea941a9-23a1-429d-8291-65b7a131264f))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "MX2") (unit 1)
         )
@@ -3575,7 +3575,7 @@
     (pin "1" (uuid 641b97ef-38ab-4015-b4de-ed8a44e1bcad))
     (pin "2" (uuid b6053ff2-10d3-446b-8b5c-8765bb01d683))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "MX24") (unit 1)
         )
@@ -3599,7 +3599,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "S7") (unit 1)
         )
@@ -3624,7 +3624,7 @@
     )
     (pin "1" (uuid 34ecb86d-cec4-4dca-938f-e361eea94695))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "#PWR07") (unit 1)
         )
@@ -3655,7 +3655,7 @@
     (pin "1" (uuid 44666bcd-55b1-4bbd-bba0-9aac84e53c2b))
     (pin "2" (uuid 6658bd59-f8ef-4555-aec5-2cc733f5f5ba))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "MX3") (unit 1)
         )
@@ -3681,7 +3681,7 @@
     (pin "1" (uuid 87e95e70-881e-4cc2-81e7-0d7c9e33ee0e))
     (pin "2" (uuid 1fa64fe1-d566-455a-8857-3eed77280885))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "MX33") (unit 1)
         )
@@ -3707,7 +3707,7 @@
     (pin "1" (uuid 00a9bc8c-a736-41eb-be05-3b9905c2acbc))
     (pin "2" (uuid 3c610ec2-27e6-412f-a3a4-76dfe0adf9c3))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "MX42") (unit 1)
         )
@@ -3731,7 +3731,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "S6") (unit 1)
         )
@@ -3748,7 +3748,7 @@
     (property "Value" "D_Small" (at 267.335 71.12 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
-    (property "Footprint" "Keebio-Parts:Diode-Hybrid-Back" (at 264.795 69.215 90)
+    (property "Footprint" "kbd:D3_TH_SMD_v2" (at 264.795 69.215 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 264.795 69.215 90)
@@ -3763,7 +3763,7 @@
     (pin "1" (uuid 5035069b-4f6a-4085-9aeb-cb30240420bb))
     (pin "2" (uuid 2e2b10b0-bb4d-445b-8707-92033c581fff))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "D32") (unit 1)
         )
@@ -3780,7 +3780,7 @@
     (property "Value" "D_Small" (at 203.835 93.98 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
-    (property "Footprint" "Keebio-Parts:Diode-Hybrid-Back" (at 201.295 92.075 90)
+    (property "Footprint" "kbd:D3_TH_SMD_v2" (at 201.295 92.075 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 201.295 92.075 90)
@@ -3795,7 +3795,7 @@
     (pin "1" (uuid f9c1410f-8e2b-47e9-a2ca-505557eb73e9))
     (pin "2" (uuid a1400839-9aca-4799-bf84-e6817e25ebcf))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "D35") (unit 1)
         )
@@ -3821,7 +3821,7 @@
     (pin "1" (uuid dd839c9f-7b81-4b2c-89b2-ab25458dd5ce))
     (pin "2" (uuid 10e7df20-ca99-4ab7-950a-846c603fe4cd))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "MX11") (unit 1)
         )
@@ -3838,7 +3838,7 @@
     (property "Value" "D_Small" (at 165.735 96.52 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
-    (property "Footprint" "Keebio-Parts:Diode-Hybrid-Back" (at 163.195 94.615 90)
+    (property "Footprint" "kbd:D3_TH_SMD_v2" (at 163.195 94.615 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 163.195 94.615 90)
@@ -3853,7 +3853,7 @@
     (pin "1" (uuid fefde13a-6c10-4f0a-b564-f0b276eead2b))
     (pin "2" (uuid 151b603c-a07d-4142-bbcb-a978144dc305))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "D12") (unit 1)
         )
@@ -3870,7 +3870,7 @@
     (property "Value" "D_Small" (at 242.57 71.12 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
-    (property "Footprint" "Keebio-Parts:Diode-Hybrid-Back" (at 240.03 69.215 90)
+    (property "Footprint" "kbd:D3_TH_SMD_v2" (at 240.03 69.215 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 240.03 69.215 90)
@@ -3885,7 +3885,7 @@
     (pin "1" (uuid 603572cc-8f1a-4bcb-b357-a073e1b8e73a))
     (pin "2" (uuid 8ebb5a8c-9a3f-4b44-be23-4a64c5257a0b))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "D18") (unit 1)
         )
@@ -3912,7 +3912,7 @@
     (pin "2" (uuid 8bb9b062-5158-4151-9771-6e31f8103e49))
     (pin "3" (uuid e44fecfc-e118-430c-9c82-7f09fae77b0c))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "J3") (unit 1)
         )
@@ -3934,7 +3934,7 @@
     (property "Value" "D_Small" (at 229.235 68.58 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
-    (property "Footprint" "Keebio-Parts:Diode-Hybrid-Back" (at 226.695 66.675 90)
+    (property "Footprint" "kbd:D3_TH_SMD_v2" (at 226.695 66.675 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 226.695 66.675 90)
@@ -3949,7 +3949,7 @@
     (pin "1" (uuid 55684211-3054-4670-ae20-3ef3d38b1fc8))
     (pin "2" (uuid 37356824-a84c-4b48-bf17-57106055a8d7))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "D11") (unit 1)
         )
@@ -3966,7 +3966,7 @@
     (property "Value" "D_Small" (at 165.735 45.72 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
-    (property "Footprint" "Keebio-Parts:Diode-Hybrid-Back" (at 163.195 43.815 90)
+    (property "Footprint" "kbd:D3_TH_SMD_v2" (at 163.195 43.815 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 163.195 43.815 90)
@@ -3981,7 +3981,7 @@
     (pin "1" (uuid bef76b7e-b798-482a-b82d-762334b453ce))
     (pin "2" (uuid 91b3d949-7f32-4082-b325-32cb5052a4f5))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "D8") (unit 1)
         )
@@ -4007,7 +4007,7 @@
     (pin "1" (uuid a44f1142-dbc6-40c3-ad3e-837d895cc90e))
     (pin "2" (uuid 74ed5124-be90-4e18-92f6-49f56143c9df))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "MX38") (unit 1)
         )
@@ -4033,7 +4033,7 @@
     (pin "1" (uuid 2faf0ac5-f996-4046-b20c-4c4ba69b70dd))
     (pin "2" (uuid eab7956e-1058-45d0-a853-21047c7f98d2))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "MX6") (unit 1)
         )
@@ -4050,7 +4050,7 @@
     (property "Value" "D_Small" (at 191.77 96.52 90)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
-    (property "Footprint" "Keebio-Parts:Diode-Hybrid-Back" (at 189.23 94.615 90)
+    (property "Footprint" "kbd:D3_TH_SMD_v2" (at 189.23 94.615 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 189.23 94.615 90)
@@ -4065,7 +4065,7 @@
     (pin "1" (uuid f085b84d-de57-4294-9ac1-fb80a7c25159))
     (pin "2" (uuid 34577dcc-f8bd-42ab-ad9a-6ae0f7ef8cf3))
     (instances
-      (project "Alpha-ISO BLE"
+      (project "pandemonium"
         (path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
           (reference "D34") (unit 1)
         )
