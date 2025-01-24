@@ -5560,6 +5560,301 @@
 				)
 			)
 		)
+		(symbol "Transistor_FET:2N7002"
+			(pin_names hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "Q"
+				(at 5.08 1.905 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "2N7002"
+				(at 5.08 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+				(at 5.08 -1.905 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF"
+				(at 5.08 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "N-Channel Switching MOSFET"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "SOT?23*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "2N7002_0_1"
+				(polyline
+					(pts
+						(xy 0.254 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.254 1.905) (xy 0.254 -1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 -1.27) (xy 0.762 -2.286)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 0.508) (xy 0.762 -0.508)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 2.286) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 2.54) (xy 2.54 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -2.54) (xy 2.54 0) (xy 0.762 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 -1.778) (xy 3.302 -1.778) (xy 3.302 1.778) (xy 0.762 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.016 0) (xy 2.032 0.381) (xy 2.032 -0.381) (xy 1.016 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.794 0.508) (xy 2.921 0.381) (xy 3.683 0.381) (xy 3.81 0.254)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.302 0.381) (xy 2.921 -0.254) (xy 3.683 -0.254) (xy 3.302 0.381)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 1.651 0)
+					(radius 2.794)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.54 -1.778)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 2.54 1.778)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+			)
+			(symbol "2N7002_1_1"
+				(pin input line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "G"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -5.08 90)
+					(length 2.54)
+					(name "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 5.08 270)
+					(length 2.54)
+					(name "D"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "marbastlib-various:MAX17048"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -6414,6 +6709,12 @@
 		(uuid "13e9ec68-30a0-40a6-bc66-ecb5a533c5c2")
 	)
 	(junction
+		(at 217.17 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "17c359a7-f8af-4ad7-9d38-2be103ba3ad6")
+	)
+	(junction
 		(at 311.785 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6454,6 +6755,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "23fe5a10-abea-4572-aada-fd9fbf4363ad")
+	)
+	(junction
+		(at 163.83 105.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "24e899be-7cb9-4db3-9130-e7c451cd1c35")
 	)
 	(junction
 		(at 157.48 148.59)
@@ -6520,6 +6827,12 @@
 		(diameter 0.9144)
 		(color 0 0 0 0)
 		(uuid "41cdc147-bc12-4b21-b2e3-d1d796701c17")
+	)
+	(junction
+		(at 176.53 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4209c2d4-6660-4174-8af9-c813816a45ff")
 	)
 	(junction
 		(at 350.52 40.64)
@@ -6634,12 +6947,6 @@
 		(diameter 0.9144)
 		(color 0 0 0 0)
 		(uuid "62e4afcc-690c-444c-83b1-248388ba60aa")
-	)
-	(junction
-		(at 167.64 100.33)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "62f7363c-2529-497d-8780-fdf0c9650472")
 	)
 	(junction
 		(at 321.945 45.72)
@@ -6810,6 +7117,12 @@
 		(uuid "a0f19408-a8a7-4b58-a857-6f2ae8ee06ec")
 	)
 	(junction
+		(at 176.53 100.33)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a1f224e5-76b2-4ee6-a99e-60c5781aa290")
+	)
+	(junction
 		(at 260.985 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6942,12 +7255,6 @@
 		(uuid "d5bdafca-08e3-414d-941d-b923c184918a")
 	)
 	(junction
-		(at 52.07 142.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d697af0a-639c-43f0-8461-7501d1d181be")
-	)
-	(junction
 		(at 273.685 50.165)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7042,10 +7349,6 @@
 		(uuid "583b8be3-4502-4eed-ad18-8e3ab41cd56a")
 	)
 	(no_connect
-		(at 167.64 105.41)
-		(uuid "5ddcb4dd-c049-4cc3-bcc4-1f8a5f4621d0")
-	)
-	(no_connect
 		(at 78.74 154.94)
 		(uuid "7e97aed7-d476-4695-b766-0d9d15651d0d")
 	)
@@ -7056,10 +7359,6 @@
 	(no_connect
 		(at 74.93 72.39)
 		(uuid "ae2fdc55-414b-4c66-a640-8a96560e851a")
-	)
-	(no_connect
-		(at 179.07 107.95)
-		(uuid "b0b2246b-8f26-4f61-b96c-e5fcdb2d6556")
 	)
 	(no_connect
 		(at 74.93 44.45)
@@ -7150,6 +7449,16 @@
 			(type default)
 		)
 		(uuid "074b67e6-6983-4459-9f6b-554172859b41")
+	)
+	(wire
+		(pts
+			(xy 176.53 110.49) (xy 199.39 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "07e08217-aedc-4512-ab65-13ba0d642c6b")
 	)
 	(wire
 		(pts
@@ -7313,16 +7622,6 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 100.33) (xy 173.99 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1d5e35e8-d7a0-422c-bb86-bfd2be7531e0")
-	)
-	(wire
-		(pts
 			(xy 347.345 68.58) (xy 357.505 68.58)
 		)
 		(stroke
@@ -7423,6 +7722,16 @@
 	)
 	(wire
 		(pts
+			(xy 217.17 109.22) (xy 217.17 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2af43d80-e811-47e2-a6ab-8583466d08b7")
+	)
+	(wire
+		(pts
 			(xy 220.98 133.35) (xy 226.06 133.35)
 		)
 		(stroke
@@ -7470,6 +7779,16 @@
 			(type solid)
 		)
 		(uuid "31043675-9c4a-4383-8f8b-a757ebb66775")
+	)
+	(wire
+		(pts
+			(xy 163.83 105.41) (xy 168.91 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "31feb422-42b8-484e-a52f-e2eef7770691")
 	)
 	(wire
 		(pts
@@ -7560,6 +7879,16 @@
 			(type default)
 		)
 		(uuid "3a4336ca-e43a-4449-a02a-81341aa8529a")
+	)
+	(wire
+		(pts
+			(xy 163.83 110.49) (xy 176.53 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a618681-1020-4689-8ec5-56d156fe8d7c")
 	)
 	(wire
 		(pts
@@ -7843,16 +8172,6 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 101.6) (xy 209.55 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5ebca17c-fad6-48e8-98b7-fed2b80dfd93")
-	)
-	(wire
-		(pts
 			(xy 157.48 148.59) (xy 157.48 152.4)
 		)
 		(stroke
@@ -7923,6 +8242,16 @@
 	)
 	(wire
 		(pts
+			(xy 217.17 104.14) (xy 217.17 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64e37ac8-fd52-4438-82d3-185f2ab63391")
+	)
+	(wire
+		(pts
 			(xy 321.945 55.245) (xy 321.945 64.77)
 		)
 		(stroke
@@ -7933,13 +8262,23 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 142.24) (xy 53.34 142.24)
+			(xy 35.56 142.24) (xy 53.34 142.24)
 		)
 		(stroke
 			(width 0)
 			(type solid)
 		)
 		(uuid "6d1602df-3838-4d95-ba4b-8bdd21f50c44")
+	)
+	(wire
+		(pts
+			(xy 163.83 99.06) (xy 163.83 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6d57d0dd-4faa-4617-8fbe-99c9215a57a2")
 	)
 	(wire
 		(pts
@@ -7953,16 +8292,6 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 97.79) (xy 167.64 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6edc53b2-6675-47f7-a28c-203ba59d6789")
-	)
-	(wire
-		(pts
 			(xy 311.15 74.93) (xy 323.215 74.93)
 		)
 		(stroke
@@ -7970,16 +8299,6 @@
 			(type default)
 		)
 		(uuid "7166a315-fd6f-412e-82d1-868ce88f1d79")
-	)
-	(wire
-		(pts
-			(xy 157.48 100.33) (xy 157.48 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "724bd1c7-5515-4f45-bafe-7e3252125e48")
 	)
 	(wire
 		(pts
@@ -8063,6 +8382,16 @@
 	)
 	(wire
 		(pts
+			(xy 199.39 102.87) (xy 199.39 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f4e9a6c-90ba-4fce-96dd-a986f28de622")
+	)
+	(wire
+		(pts
 			(xy 254.635 74.93) (xy 260.985 74.93)
 		)
 		(stroke
@@ -8110,16 +8439,6 @@
 			(type solid)
 		)
 		(uuid "85603607-097e-4d28-a2f1-e70454ea27ef")
-	)
-	(wire
-		(pts
-			(xy 52.07 137.16) (xy 52.07 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "86696fa9-b06c-46a6-9ffe-1e70ca25246f")
 	)
 	(wire
 		(pts
@@ -8213,16 +8532,6 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 142.24) (xy 52.07 142.24)
-		)
-		(stroke
-			(width 0)
-			(type solid)
-		)
-		(uuid "961bd899-cfe3-47b9-b5e8-85c6bf7050d3")
-	)
-	(wire
-		(pts
 			(xy 88.9 68.58) (xy 88.9 71.12)
 		)
 		(stroke
@@ -8300,6 +8609,16 @@
 			(type default)
 		)
 		(uuid "a23fd071-c9ea-4339-9e4d-ded892a90931")
+	)
+	(wire
+		(pts
+			(xy 217.17 114.3) (xy 222.25 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a488b910-b540-4d1b-beab-c82c83dbbb9e")
 	)
 	(wire
 		(pts
@@ -8390,6 +8709,16 @@
 			(type solid)
 		)
 		(uuid "b32cabf0-7538-4935-b687-9fba789a2110")
+	)
+	(wire
+		(pts
+			(xy 52.07 137.16) (xy 52.07 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b39218d5-9818-4a87-b0ad-b16d33e3c638")
 	)
 	(wire
 		(pts
@@ -8533,6 +8862,16 @@
 	)
 	(wire
 		(pts
+			(xy 176.53 100.33) (xy 189.23 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cae56e1d-2072-4df1-bbae-02ca99991ea5")
+	)
+	(wire
+		(pts
 			(xy 44.45 132.08) (xy 66.04 132.08)
 		)
 		(stroke
@@ -8653,6 +8992,16 @@
 	)
 	(wire
 		(pts
+			(xy 173.99 100.33) (xy 176.53 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9aa470e-1ceb-48a5-80db-ac6eadebf4ac")
+	)
+	(wire
+		(pts
 			(xy 350.52 50.165) (xy 362.585 50.165)
 		)
 		(stroke
@@ -8670,6 +9019,16 @@
 			(type default)
 		)
 		(uuid "e5785e14-2d08-405a-b3bf-03f1a12c98b0")
+	)
+	(wire
+		(pts
+			(xy 199.39 91.44) (xy 199.39 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6d80df5-9020-4e75-ab2d-9a78a8f53875")
 	)
 	(wire
 		(pts
@@ -9095,7 +9454,7 @@
 	)
 	(text "MOLEX 781710002"
 		(exclude_from_sim no)
-		(at 155.956 91.694 0)
+		(at 212.344 117.094 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9114,6 +9473,17 @@
 			(justify left bottom)
 		)
 		(uuid "56a0fb13-c62d-40cc-be88-dcf21545b310")
+	)
+	(text "Connector"
+		(exclude_from_sim no)
+		(at 221.996 100.076 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "65a4153e-317d-4cf2-99df-88ed9335d903")
 	)
 	(text "TMR: (10 x 48 s/kOhm) * 47 kOhm = 22560s = 6.27h\nILIM: 1550 AOhm / 1500 Ohm = 1.03 A = 1030 mA\nISET: 890 AOhm / 2200 Ohm = 0.404 A = 440 mA\nEN1: 1, EN2: 0 = 475 mA MAX\nTS: 10 kOhm to GND = no OTP"
 		(exclude_from_sim no)
@@ -9148,7 +9518,7 @@
 		)
 		(uuid "d1cf9c2e-ff6d-4a5c-9dd2-e68f8d48c726")
 	)
-	(text "Battery connectors"
+	(text "Battery connectors + on/off switch"
 		(exclude_from_sim no)
 		(at 153.416 84.328 0)
 		(effects
@@ -9205,7 +9575,7 @@
 	)
 	(text "2pin breakout"
 		(exclude_from_sim no)
-		(at 197.612 91.694 0)
+		(at 220.98 84.582 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9279,17 +9649,6 @@
 			(justify left bottom)
 		)
 		(uuid "354982d7-f506-43e1-8d65-749a0ffe0eba")
-	)
-	(label "BATSWITCH"
-		(at 167.64 97.79 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "36e79d36-f027-46ae-bac0-19b0a5a58de8")
 	)
 	(label "ILIM"
 		(at 44.45 154.94 0)
@@ -9400,17 +9759,6 @@
 			(justify left bottom)
 		)
 		(uuid "9f5ddd1f-3753-42ed-ac66-c4e053f5a5ea")
-	)
-	(label "BATSWITCH"
-		(at 209.55 104.14 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a0c25c8b-cb0f-4dd5-95f5-79fa2c31bdf4")
 	)
 	(label "P0.21"
 		(at 220.98 41.91 0)
@@ -9760,6 +10108,50 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SYSOFF"
+		(shape input)
+		(at 52.07 139.7 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1c74d115-c391-487e-b152-6e688ab6b003")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 42.0695 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SYSOFF"
+		(shape output)
+		(at 173.99 100.33 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1e180db2-014e-46d8-93fe-aff578bac8aa")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 163.9895 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -12424,6 +12816,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+5V")
+		(at 163.83 99.06 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1bff0467-d383-48fe-83c2-4d34087cd20b")
+		(property "Reference" "#PWR08"
+			(at 163.83 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 164.211 94.6658 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 163.83 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 163.83 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 163.83 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7c9bdab6-b739-436d-a955-9050b612fb8a")
+		)
+		(instances
+			(project "pandemonium BLE e7 cutout"
+				(path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
+					(reference "#PWR08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small")
 		(at 220.98 172.72 0)
 		(unit 1)
@@ -13273,32 +13730,34 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Female")
-		(at 204.47 104.14 180)
+		(at 222.25 88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "2985a802-d2b9-42f9-8748-92599afc8175")
 		(property "Reference" "J4"
-			(at 205.105 96.52 0)
+			(at 223.52 88.8999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Value" "Conn_01x02_Female"
-			(at 205.105 99.06 0)
+			(at 223.52 91.4399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal"
-			(at 204.47 104.14 0)
+			(at 222.25 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13307,7 +13766,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 204.47 104.14 0)
+			(at 222.25 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13316,7 +13775,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 204.47 104.14 0)
+			(at 222.25 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14159,6 +14618,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+BATT")
+		(at 217.17 88.9 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3597f265-782b-492e-a44b-d97962435b3b")
+		(property "Reference" "#PWR012"
+			(at 217.17 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+BATT"
+			(at 217.17 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 217.17 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 217.17 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 217.17 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "43d7cc1a-7b31-4e63-926b-c3fafb53e5af")
+		)
+		(instances
+			(project "pandemonium BLE e7 cutout"
+				(path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
+					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:D_Small")
 		(at 281.305 55.245 0)
 		(unit 1)
@@ -14329,6 +14854,72 @@
 			(project "pandemonium BLE"
 				(path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
 					(reference "D7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+BATT")
+		(at 199.39 91.44 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3dd457f6-312e-4d26-b5ea-8675ac41f864")
+		(property "Reference" "#PWR016"
+			(at 199.39 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+BATT"
+			(at 199.39 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 199.39 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 199.39 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 199.39 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d2acc080-2be9-4da4-9900-8d63232de1cd")
+		)
+		(instances
+			(project "pandemonium BLE e7 cutout"
+				(path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -15353,6 +15944,82 @@
 		)
 	)
 	(symbol
+		(lib_id "Transistor_FET:2N7002")
+		(at 173.99 105.41 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "55c96f8a-6274-4c13-8b6a-5578af98b102")
+		(property "Reference" "Q1"
+			(at 180.34 104.1399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2N7002"
+			(at 180.34 106.6799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 179.07 107.315 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF"
+			(at 179.07 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"
+			(at 173.99 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "5491ff3b-e23b-4a52-b90c-b38b7f50a562")
+		)
+		(pin "3"
+			(uuid "aff4ba71-941e-4b88-b113-856e63c4a99c")
+		)
+		(pin "1"
+			(uuid "84cc3324-9a95-4929-877f-20d1b90ac086")
+		)
+		(instances
+			(project ""
+				(path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
+					(reference "Q1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 139.7 33.02 0)
 		(unit 1)
@@ -15705,6 +16372,72 @@
 			(project "pandemonium BLE"
 				(path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
 					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+BATT")
+		(at 217.17 104.14 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5ad9413d-a462-490b-8b90-bd37a07adfee")
+		(property "Reference" "#PWR011"
+			(at 217.17 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+BATT"
+			(at 217.17 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 217.17 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 217.17 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 217.17 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e8abfe42-67ff-4f48-b6e0-ed3a800f4d76")
+		)
+		(instances
+			(project "pandemonium BLE e7 cutout"
+				(path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -16719,6 +17452,75 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Small")
+		(at 163.83 102.87 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "74309874-3a9a-4a7d-9d8b-93af99e6f322")
+		(property "Reference" "R3"
+			(at 157.48 101.346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100R"
+			(at 157.48 103.886 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 163.83 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 163.83 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 163.83 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "4bdbebbc-1020-4a07-b59d-b3b414e5da13")
+		)
+		(pin "1"
+			(uuid "a8661fdc-f85b-4227-b0cd-63e1d0db83b6")
+		)
+		(instances
+			(project "pandemonium BLE e7 cutout"
+				(path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
+					(reference "R3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 205.74 172.72 0)
 		(unit 1)
@@ -17635,7 +18437,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPDT")
-		(at 162.56 102.87 0)
+		(at 194.31 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17643,7 +18445,7 @@
 		(dnp no)
 		(uuid "85f7dae0-965e-4b78-b801-2bd3460bc2e3")
 		(property "Reference" "SW4"
-			(at 161.036 105.8926 0)
+			(at 192.786 103.3526 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17651,7 +18453,7 @@
 			)
 		)
 		(property "Value" "SW_SPDT"
-			(at 161.036 108.204 0)
+			(at 192.786 105.664 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17659,7 +18461,7 @@
 			)
 		)
 		(property "Footprint" "PCM_marbastlib-various:SW_MSK12C02-HB"
-			(at 162.56 102.87 0)
+			(at 194.31 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17668,7 +18470,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 162.56 102.87 0)
+			(at 194.31 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17677,7 +18479,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 162.56 102.87 0)
+			(at 194.31 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18464,6 +19266,71 @@
 			(project "pandemonium BLE"
 				(path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
 					(reference "MX4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 176.53 110.49 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8ffc74cb-d4cc-4265-9fc4-1fde16455784")
+		(property "Reference" "#PWR010"
+			(at 176.53 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 176.657 114.8842 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 176.53 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 176.53 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 176.53 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "97dcf7f4-af82-4346-b4d5-cb172c87d097")
+		)
+		(instances
+			(project "pandemonium BLE e7 cutout"
+				(path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -19539,72 +20406,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+BATT")
-		(at 157.48 100.33 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a6b98f8c-956c-46c3-8347-fa62d36f7d2e")
-		(property "Reference" "#PWR08"
-			(at 157.48 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+BATT"
-			(at 157.48 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 157.48 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 157.48 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 157.48 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "37c94bad-1493-45c3-8700-b770f750e216")
-		)
-		(instances
-			(project "pandemonium BLE e7"
-				(path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
-					(reference "#PWR08")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small")
 		(at 228.6 172.72 0)
 		(unit 1)
@@ -19752,6 +20553,75 @@
 			(project "pandemonium BLE"
 				(path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
 					(reference "R15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 163.83 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a9faaf2f-4c70-4fb9-a6f6-2abf83ca3e15")
+		(property "Reference" "R2"
+			(at 157.48 106.426 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 157.48 108.966 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 163.83 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 163.83 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 163.83 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "eea806c0-0ff4-4c46-ae21-92b4ce0d3e78")
+		)
+		(pin "1"
+			(uuid "faa251a4-5b65-4096-8d3f-3d613b57a838")
+		)
+		(instances
+			(project ""
+				(path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -20041,7 +20911,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic_MountingPin:Conn_01x02_MountingPin")
-		(at 179.07 100.33 0)
+		(at 222.25 106.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20049,7 +20919,7 @@
 		(dnp no)
 		(uuid "b5a8ac0a-d4ca-422e-aaa6-f78efee92de6")
 		(property "Reference" "J3"
-			(at 181.102 100.5332 0)
+			(at 224.282 106.8832 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20058,7 +20928,7 @@
 			)
 		)
 		(property "Value" "78171-0002"
-			(at 185.674 107.188 90)
+			(at 228.854 113.538 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20067,7 +20937,7 @@
 			)
 		)
 		(property "Footprint" "PCM_marbastlib-various:Molex_Pico-EZmate_78171-0002_1x02-1MP_P1.20mm_Vertical"
-			(at 179.07 100.33 0)
+			(at 222.25 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20076,7 +20946,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 179.07 100.33 0)
+			(at 222.25 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20085,7 +20955,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 179.07 100.33 0)
+			(at 222.25 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20094,7 +20964,7 @@
 			)
 		)
 		(property "LCSC" "C505023"
-			(at 179.07 100.33 0)
+			(at 222.25 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20433,7 +21303,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 173.99 102.87 0)
+		(at 217.17 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20441,7 +21311,7 @@
 		(dnp no)
 		(uuid "bf8340c2-afee-4b8e-a169-13f955f77885")
 		(property "Reference" "#PWR05"
-			(at 173.99 109.22 0)
+			(at 217.17 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20450,7 +21320,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 174.117 107.2642 0)
+			(at 217.297 118.6942 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20458,7 +21328,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 173.99 102.87 0)
+			(at 217.17 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20467,7 +21337,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 173.99 102.87 0)
+			(at 217.17 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20476,7 +21346,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 173.99 102.87 0)
+			(at 217.17 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23421,7 +24291,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 222.25 101.6 0)
+		(at 217.17 91.44 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23429,7 +24299,7 @@
 		(dnp no)
 		(uuid "f9bab7fd-6b27-4fb9-a52c-05786e31d0f6")
 		(property "Reference" "#PWR09"
-			(at 222.25 107.95 0)
+			(at 217.17 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23438,7 +24308,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 222.25 106.172 0)
+			(at 217.17 96.012 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23446,7 +24316,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 222.25 101.6 0)
+			(at 217.17 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23455,7 +24325,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 222.25 101.6 0)
+			(at 217.17 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23464,7 +24334,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 222.25 101.6 0)
+			(at 217.17 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23853,6 +24723,76 @@
 			(project "pandemonium BLE"
 				(path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
 					(reference "C18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 199.39 95.25 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ff827979-affb-4c09-913d-1b1a2dbd478b")
+		(property "Reference" "R4"
+			(at 201.93 93.9799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100K"
+			(at 201.93 96.5199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 199.39 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 199.39 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 199.39 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "330b814d-027c-4d37-8ea2-6196c477135f")
+		)
+		(pin "1"
+			(uuid "02c55677-731d-441f-89a3-f0f2c2323d01")
+		)
+		(instances
+			(project "pandemonium BLE e7 cutout"
+				(path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3"
+					(reference "R4")
 					(unit 1)
 				)
 			)
