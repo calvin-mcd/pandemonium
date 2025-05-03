@@ -5,6 +5,191 @@
 	(uuid "00cc5b2d-6685-4ad4-9733-0b5c8454c5a0")
 	(paper "A4")
 	(lib_symbols
+		(symbol "PCM_marbastlib-mx:MX_stab"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "S"
+				(at -5.08 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "MX_stab"
+				(at -5.08 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_6.25u"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Cherry MX-style stabilizer"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "cherry mx stabilizer stab"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MX_stab_0_1"
+				(rectangle
+					(start -5.08 -1.524)
+					(end -2.54 -2.54)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -5.08 1.27)
+					(end -2.54 -2.54)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -4.826 2.794)
+					(end -2.794 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -4.064 -2.286)
+					(end -3.556 -1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -4.064 -1.778)
+					(end 4.064 -2.286)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -4.064 1.27)
+					(end -3.556 2.794)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 2.54 -1.524)
+					(end 5.08 -2.54)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 2.54 1.27)
+					(end 5.08 -2.54)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 2.794 2.794)
+					(end 4.826 1.27)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 3.556 1.27)
+					(end 4.064 2.794)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 4.064 -2.286)
+					(end 3.556 -1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+		)
 		(symbol "cipulot_parts:EC_SW"
 			(pin_numbers hide)
 			(pin_names
@@ -257,6 +442,18 @@
 		(uuid "028810e6-c8d3-4b50-96e5-52bfd56acae2")
 	)
 	(junction
+		(at 135.89 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "07f54d6e-a59c-4fb5-8df4-4fb4c31b30bd")
+	)
+	(junction
+		(at 119.38 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "09b7f663-0b64-4c24-a113-b3dbe075528a")
+	)
+	(junction
 		(at 102.87 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -309,12 +506,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "26368bba-7dc3-409a-8a5a-9f683612a233")
-	)
-	(junction
-		(at 62.23 92.71)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "270ed1b3-5380-4d53-ba32-43e1083889ec")
 	)
 	(junction
 		(at 111.76 43.18)
@@ -533,6 +724,12 @@
 		(uuid "8925b668-b49f-4b0a-aed9-7cc75956371d")
 	)
 	(junction
+		(at 104.14 85.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8b1bde5b-bf0e-4dd3-923f-0c146314508c")
+	)
+	(junction
 		(at 153.67 38.1)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -627,6 +824,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ab490df3-3bdd-44c0-8751-727e0cd9ba74")
+	)
+	(junction
+		(at 62.23 92.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "abb8e1a0-6856-494c-83ae-84ce09ad999a")
 	)
 	(junction
 		(at 144.78 77.47)
@@ -779,6 +982,12 @@
 		(uuid "f2e42173-ef61-4f7e-a816-a23b709e0c91")
 	)
 	(junction
+		(at 120.65 85.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f59fd5ed-cf39-4275-bed1-bc616017e9c7")
+	)
+	(junction
 		(at 186.69 68.58)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -881,6 +1090,16 @@
 			(type default)
 		)
 		(uuid "0985d0ab-2d14-40d9-9b45-32cc186ecc0b")
+	)
+	(wire
+		(pts
+			(xy 104.14 85.09) (xy 104.14 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b965ecf-2213-415e-9ded-f10d8e5e2583")
 	)
 	(wire
 		(pts
@@ -1101,16 +1320,6 @@
 			(type default)
 		)
 		(uuid "31d8c229-2694-45c3-a05c-f3693a49d547")
-	)
-	(wire
-		(pts
-			(xy 62.23 92.71) (xy 95.25 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "375875e6-7d84-43f5-a959-8de0b4fac37b")
 	)
 	(wire
 		(pts
@@ -1504,6 +1713,16 @@
 	)
 	(wire
 		(pts
+			(xy 120.65 85.09) (xy 120.65 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "754ab450-712a-40b7-b425-e5a8e6b9428f")
+	)
+	(wire
+		(pts
 			(xy 120.65 27.94) (xy 120.65 38.1)
 		)
 		(stroke
@@ -1684,6 +1903,16 @@
 	)
 	(wire
 		(pts
+			(xy 135.89 85.09) (xy 135.89 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "927916b7-4dd5-4d2a-92e8-d2478223c542")
+	)
+	(wire
+		(pts
 			(xy 54.61 54.61) (xy 54.61 72.39)
 		)
 		(stroke
@@ -1784,7 +2013,7 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 72.39) (xy 120.65 87.63)
+			(xy 120.65 72.39) (xy 120.65 85.09)
 		)
 		(stroke
 			(width 0)
@@ -1811,6 +2040,16 @@
 			(type default)
 		)
 		(uuid "b041fb1a-a2b3-4d62-9001-48878ad9bed9")
+	)
+	(wire
+		(pts
+			(xy 119.38 85.09) (xy 119.38 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b0a6b1bf-1dac-4b7b-a710-a3f449532367")
 	)
 	(wire
 		(pts
@@ -1924,7 +2163,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 72.39) (xy 104.14 87.63)
+			(xy 104.14 72.39) (xy 104.14 85.09)
 		)
 		(stroke
 			(width 0)
@@ -2011,6 +2250,16 @@
 			(type default)
 		)
 		(uuid "cdca82fe-1926-4d5a-89c3-2a0f6eb0782e")
+	)
+	(wire
+		(pts
+			(xy 128.27 90.17) (xy 128.27 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d10ba19f-1a70-4d1d-bef1-539ab4be1888")
 	)
 	(wire
 		(pts
@@ -2204,6 +2453,16 @@
 	)
 	(wire
 		(pts
+			(xy 62.23 92.71) (xy 95.25 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ecc8ebb8-6b46-4f6c-b749-6514085c07c0")
+	)
+	(wire
+		(pts
 			(xy 185.42 72.39) (xy 185.42 80.01)
 		)
 		(stroke
@@ -2261,6 +2520,16 @@
 			(type default)
 		)
 		(uuid "fadca032-56c9-4f41-bffc-7b5085b47174")
+	)
+	(wire
+		(pts
+			(xy 111.76 90.17) (xy 111.76 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb30558b-8154-4f6c-8c86-820359ff68dd")
 	)
 	(wire
 		(pts
@@ -2741,7 +3010,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cipulot_parts:ecs_pad_no_ring_stepped&normal"
+		(property "Footprint" "cipulot_parts:ecs_pad_0.25U_0.125U_spaced_no_ring_cut_right"
 			(at 95.25 87.63 0)
 			(effects
 				(font
@@ -2999,6 +3268,70 @@
 		)
 	)
 	(symbol
+		(lib_id "PCM_marbastlib-mx:MX_stab")
+		(at 128.27 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "13067cfc-2263-404e-a278-c4b8cfa5ae0b")
+		(property "Reference" "S2"
+			(at 134.62 106.5529 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "225"
+			(at 134.62 109.0929 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_2.25u"
+			(at 128.27 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 128.27 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Cherry MX-style stabilizer"
+			(at 128.27 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "pandemonium EC 2 Layer"
+				(path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3/eafffced-deac-4df0-8a11-48da2cad2ba9"
+					(reference "S2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "cipulot_parts:EC_SW")
 		(at 95.25 72.39 0)
 		(unit 1)
@@ -3135,6 +3468,70 @@
 			(project "pandemonium EC 2 Layer"
 				(path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3/eafffced-deac-4df0-8a11-48da2cad2ba9"
 					(reference "SW_EC7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_marbastlib-mx:MX_stab")
+		(at 96.52 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1f688b3d-e182-4092-9037-f66826112158")
+		(property "Reference" "S1"
+			(at 102.87 106.5529 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "225"
+			(at 102.87 109.0929 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_2.25u"
+			(at 96.52 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 96.52 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Cherry MX-style stabilizer"
+			(at 96.52 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3/eafffced-deac-4df0-8a11-48da2cad2ba9"
+					(reference "S1")
 					(unit 1)
 				)
 			)
@@ -3348,6 +3745,70 @@
 			(project "pandemonium EC 2 Layer"
 				(path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3/eafffced-deac-4df0-8a11-48da2cad2ba9"
 					(reference "SW_EC4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_marbastlib-mx:MX_stab")
+		(at 128.27 116.84 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2da729a3-32b1-4466-8852-8baf632fe8e9")
+		(property "Reference" "S5"
+			(at 134.62 115.4429 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "3"
+			(at 134.62 117.9829 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_3u"
+			(at 128.27 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 128.27 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Cherry MX-style stabilizer"
+			(at 128.27 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "pandemonium EC 2 Layer"
+				(path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3/eafffced-deac-4df0-8a11-48da2cad2ba9"
+					(reference "S5")
 					(unit 1)
 				)
 			)
@@ -4410,6 +4871,77 @@
 	)
 	(symbol
 		(lib_id "cipulot_parts:EC_SW")
+		(at 111.76 85.09 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a650b618-c2e9-46e2-b8d7-f978dbcb6022")
+		(property "Reference" "SW_EC34"
+			(at 111.76 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Topre"
+			(at 111.76 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "cipulot_parts:ecs_pad_1U_no_ring_1u_edge_cut_horizontal"
+			(at 111.76 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 111.76 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 111.76 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f683039c-6cb4-41b8-ab99-634a02548f4f")
+		)
+		(pin "2"
+			(uuid "8e26eb47-3d6b-4121-9322-2c77e1aa976e")
+		)
+		(pin "3"
+			(uuid "be3d958b-0076-4ad6-92d8-6e2c6ab6f2d3")
+		)
+		(instances
+			(project "pandemonium EC 2 Layer"
+				(path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3/eafffced-deac-4df0-8a11-48da2cad2ba9"
+					(reference "SW_EC34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "cipulot_parts:EC_SW")
 		(at 111.76 87.63 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4551,6 +5083,70 @@
 		)
 	)
 	(symbol
+		(lib_id "PCM_marbastlib-mx:MX_stab")
+		(at 220.98 82.55 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "af331c56-58ed-4565-a452-fcde60a9c452")
+		(property "Reference" "S3"
+			(at 224.79 81.2799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "225"
+			(at 224.79 83.8199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_ISO-ROT"
+			(at 220.98 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 220.98 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Cherry MX-style stabilizer"
+			(at 220.98 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "pandemonium EC 2 Layer"
+				(path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3/eafffced-deac-4df0-8a11-48da2cad2ba9"
+					(reference "S3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "cipulot_parts:EC_SW")
 		(at 177.8 87.63 0)
 		(unit 1)
@@ -4629,7 +5225,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "b29341b4-5919-4f34-b2c8-1fe7c3c4b2b7")
 		(property "Reference" "SW_EC32"
 			(at 62.23 81.28 0)
@@ -4648,7 +5243,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cipulot_parts:ecs_pad_1U_no_ring"
+		(property "Footprint" "cipulot_parts:ecs_pad_no_ring_1u&1.25u&1.5u"
 			(at 62.23 87.63 0)
 			(effects
 				(font
@@ -4897,6 +5492,77 @@
 	)
 	(symbol
 		(lib_id "cipulot_parts:EC_SW")
+		(at 128.27 85.09 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c6aca932-e73d-4b29-83ea-21a16cb9df7f")
+		(property "Reference" "SW_EC40"
+			(at 128.27 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Topre"
+			(at 128.27 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "cipulot_parts:ecs_pad_1U_no_ring"
+			(at 128.27 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 128.27 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 128.27 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "01d84c5d-5da8-4349-993e-d8d20f77490f")
+		)
+		(pin "2"
+			(uuid "247a02e8-abf6-4140-b151-5301ad8b6bfd")
+		)
+		(pin "3"
+			(uuid "fedbd28f-9393-4ef6-8203-c40739f121f3")
+		)
+		(instances
+			(project "pandemonium EC 2 Layer"
+				(path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3/eafffced-deac-4df0-8a11-48da2cad2ba9"
+					(reference "SW_EC40")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "cipulot_parts:EC_SW")
 		(at 161.29 54.61 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5064,7 +5730,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "cipulot_parts:ecs_pad_no_ring_stepped&normal"
+		(property "Footprint" "cipulot_parts:ecs_pad_no_ring_stepped&normal_cut"
 			(at 128.27 87.63 0)
 			(effects
 				(font
@@ -5387,6 +6053,70 @@
 			(project "pandemonium EC 2 Layer"
 				(path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3/eafffced-deac-4df0-8a11-48da2cad2ba9"
 					(reference "SW_EC27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_marbastlib-mx:MX_stab")
+		(at 96.52 116.84 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f10343c9-31f8-4510-a29e-704f1ff029b0")
+		(property "Reference" "S4"
+			(at 102.87 115.4429 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "3"
+			(at 102.87 117.9829 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_3u"
+			(at 96.52 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 96.52 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Cherry MX-style stabilizer"
+			(at 96.52 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "pandemonium EC 2 Layer"
+				(path "/d73b7c39-1103-4a4e-9b7b-eba7e04e02d3/eafffced-deac-4df0-8a11-48da2cad2ba9"
+					(reference "S4")
 					(unit 1)
 				)
 			)

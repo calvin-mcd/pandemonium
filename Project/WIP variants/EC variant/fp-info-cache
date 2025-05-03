@@ -1,4 +1,4 @@
-26435866312228513
+26439353458664657
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -70042,6 +70042,13 @@ cherry MX 6028 rearmount rear mount led rgb backlight
 4
 4
 PCM_marbastlib-mx
+LED_MX_6028R(centre)
+Add-on for regular MX-footprints with 6028 reverse mount LED
+cherry MX 6028 rearmount rear mount led rgb backlight
+0
+4
+4
+PCM_marbastlib-mx
 LED_MX_6028R-ROT
 Add-on for regular MX-footprints with 6028 reverse mount LED
 cherry MX 6028 rearmount rear mount led rgb backlight
@@ -104574,6 +104581,13 @@ MXOnly-3U-ReversedStabilizers-NoLED
 2
 cipulot_parts
 MXOnly-3U-ReversedStabilizers-NoSwitch
+
+
+0
+0
+0
+cipulot_parts
+MXOnly-5U-NoSwitch
 
 
 0
