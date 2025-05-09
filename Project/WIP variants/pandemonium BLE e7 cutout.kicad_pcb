@@ -283,7 +283,7 @@
 		(path "/da73b31c-5555-4105-b1d4-f4598a2a53c3")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end -9.525 9.525)
@@ -562,7 +562,7 @@
 		(path "/20fd4757-8bfc-4208-b02d-226109ec6022")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end -9.525 9.525)
@@ -839,7 +839,7 @@
 		(path "/5905c995-0453-48b4-b1ca-4f0972ad0307")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -14.2875 -9.525)
 			(end -14.2875 9.525)
@@ -1289,7 +1289,7 @@
 		(path "/410df0fb-5099-47b4-822c-846b169f1de7")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -14.2875 -9.525)
 			(end -14.2875 9.525)
@@ -1568,7 +1568,7 @@
 		(path "/c5bc34d9-8c7d-4ce0-a48e-404de2991c55")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end -9.525 9.525)
@@ -1845,7 +1845,7 @@
 		(path "/61397476-1fdb-4994-a7f3-cda612ad5d6e")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 28.575 -9.525)
 			(end 28.575 9.525)
@@ -2251,7 +2251,7 @@
 		(path "/97bbc1f1-4750-47b7-be23-4b7fba2c8469")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 5.9 6.1)
 			(end -5.9 6.1)
@@ -2631,7 +2631,7 @@
 		(path "/1ac72e6a-1249-4083-add4-7ff817a72300")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end -9.525 9.525)
@@ -2909,7 +2909,7 @@
 		(path "/769b10fc-2c50-47d4-bd0a-9b6599629c2b")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -16.66875 -9.525)
 			(end -16.66875 9.525)
@@ -3188,7 +3188,7 @@
 		(path "/b9829db5-169c-42ae-ae69-4eac99ec8d55")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end -9.525 9.525)
@@ -3467,7 +3467,7 @@
 		(path "/7fec755c-4e58-4e0e-b763-4ba627b7b44e")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end -9.525 9.525)
@@ -3746,7 +3746,7 @@
 		(path "/a378b708-a5ad-4fad-bf73-4662871dcaa1")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end -9.525 9.525)
@@ -4025,7 +4025,7 @@
 		(path "/c52ad4f9-350d-492a-b970-7eb3721062bb")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end -9.525 9.525)
@@ -4303,7 +4303,7 @@
 		(path "/98a77d4f-9df0-4b1c-b7e1-be6da0a45a3f")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -11.90625 -9.525)
 			(end -11.90625 9.525)
@@ -4582,7 +4582,7 @@
 		(path "/a35761d6-1c4b-4590-a6df-f8d36a4436b1")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end -9.525 9.525)
@@ -4872,7 +4872,7 @@
 		(path "/77f7dfbf-50f1-4422-934e-694b91003f53")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end -9.525 9.525)
@@ -5149,7 +5149,7 @@
 		(path "/40a7f121-b2ce-45d3-af3e-d04ccef1037a")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 28.575 -9.525)
 			(end 28.575 9.525)
@@ -5555,7 +5555,7 @@
 		(path "/215abcba-4dc1-4729-b23f-deed6ce1d1e1")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end -9.525 9.525)
@@ -5834,7 +5834,7 @@
 		(path "/d1f768f4-7280-4b88-ba55-d9cb725d145e")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end -9.525 9.525)
@@ -6277,7 +6277,7 @@
 		(path "/2d5d3285-1b2e-4d05-8dfc-5e680d3babaf")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -11.90625 -9.525)
 			(end -11.90625 9.525)
@@ -6556,7 +6556,7 @@
 		(path "/31d7e181-bda2-42ec-83db-0eb8cb68bdb1")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end -9.525 9.525)
@@ -6835,7 +6835,7 @@
 		(path "/c64c77b0-871e-47b0-99de-285b48b7d118")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end -9.525 9.525)
@@ -7114,7 +7114,7 @@
 		(path "/5f9087f9-88a1-4fa8-bb9f-e7bda877f5f4")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end -9.525 9.525)
@@ -7393,7 +7393,7 @@
 		(path "/8f7d47a0-d87e-47a2-b210-7c19e2501e54")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end -9.525 9.525)
@@ -7670,7 +7670,7 @@
 		(path "/ab860373-7044-4c58-a5e0-2f8dde3c1d7b")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -16.66875 -19.05)
 			(end -16.66875 0)
@@ -8107,7 +8107,7 @@
 		(path "/d0a13377-f0b8-46da-9130-fb7ad0d8f4bc")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end -9.525 9.525)
@@ -8386,7 +8386,7 @@
 		(path "/ea91f6d6-50a1-4fbb-a7d0-34db395a814d")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end -9.525 9.525)
@@ -8665,7 +8665,7 @@
 		(path "/9855a75f-818b-453c-9f27-ce554afd213d")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end -9.525 9.525)
@@ -8943,7 +8943,7 @@
 		(path "/f48fecf9-b2a2-4a2c-b3f9-6f37657c70c2")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -16.66875 -9.525)
 			(end -16.66875 9.525)
@@ -9220,7 +9220,7 @@
 		(path "/dc06dff5-8a6c-4e4a-8a1f-edc85809824b")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -11.90625 -9.525)
 			(end -11.90625 9.525)
@@ -9508,7 +9508,7 @@
 		(path "/afd738fb-cc43-4912-aa8c-0f8724a8cc66")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 57.15 -9.525)
 			(end 57.15 9.525)
@@ -10107,7 +10107,7 @@
 		(path "/d68e5e64-8fa6-415e-a839-8b0c491ee191")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 5.9 6.1)
 			(end -5.9 6.1)
@@ -10487,7 +10487,7 @@
 		(path "/53e951fe-6194-4ac8-a0f1-919b75f54219")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end -9.525 9.525)
@@ -10766,7 +10766,7 @@
 		(path "/d6154d28-843a-4d54-b45b-e6f56d2b8ca8")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end -9.525 9.525)
@@ -11045,7 +11045,7 @@
 		(path "/b8620b2a-2e44-404b-afca-9d955689a86f")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end -9.525 9.525)
@@ -11324,7 +11324,7 @@
 		(path "/6a8dba88-17f2-4113-8b65-00410e926fd2")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end -9.525 9.525)
@@ -11601,7 +11601,7 @@
 		(path "/e6c2f09e-3c13-4801-a8d7-7f451ffa3f98")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 21.43125 -9.525)
 			(end 21.43125 9.525)
@@ -11804,7 +11804,7 @@
 		)
 		(fp_arc
 			(start 15.28125 7.500001)
-			(mid 15.134806 7.853571)
+			(mid 15.1348 7.853536)
 			(end 14.78125 8.000001)
 			(stroke
 				(width 0.05)
@@ -11815,7 +11815,7 @@
 		)
 		(fp_arc
 			(start 14.780039 -5.999999)
-			(mid 15.133567 -5.853539)
+			(mid 15.133602 -5.853545)
 			(end 15.280039 -5.499999)
 			(stroke
 				(width 0.05)
@@ -11826,7 +11826,7 @@
 		)
 		(fp_arc
 			(start 9.03125 8.000001)
-			(mid 8.677729 7.853537)
+			(mid 8.677693 7.853543)
 			(end 8.53125 7.500001)
 			(stroke
 				(width 0.05)
@@ -12007,7 +12007,7 @@
 		(path "/fb438fa3-8a96-4912-b537-3f1ebd892bac")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end -9.525 9.525)
@@ -12284,7 +12284,7 @@
 		(path "/8a3f778c-3746-49be-80a7-ce4f03ed44c3")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 28.575 -9.525)
 			(end 28.575 9.525)
@@ -12690,7 +12690,7 @@
 		(path "/c7dda731-daef-4765-a135-47fe7a88664b")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end -9.525 9.525)
@@ -12969,7 +12969,7 @@
 		(path "/0d6c899e-98a5-469e-9d02-8ea35e5bd7ae")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end -9.525 9.525)
@@ -13248,7 +13248,7 @@
 		(path "/2b6360ba-8626-4342-8cf5-1b9ca8ae053d")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end -9.525 9.525)
@@ -13525,7 +13525,7 @@
 		(path "/64074890-ed9f-469d-9a50-06c961a2ac7b")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 66.675 -9.525)
 			(end 66.675 9.525)
@@ -13931,7 +13931,7 @@
 		(path "/16aa7463-05fd-4aab-95e5-2361bec670aa")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end -9.525 9.525)
@@ -14210,7 +14210,7 @@
 		(path "/4072902e-d0dc-4106-9b63-6d22735ef55e")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end -9.525 9.525)
@@ -14500,7 +14500,7 @@
 		(path "/42ac3b12-7329-47f1-b77f-4ad88f9646da")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end -9.525 9.525)
@@ -14779,7 +14779,7 @@
 		(path "/9273d351-a818-4891-913b-38f4c0876dbd")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end -9.525 9.525)
@@ -15056,7 +15056,7 @@
 		(path "/d274502a-576d-404f-bdf2-98de3ce8f572")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 21.43125 -9.525)
 			(end 21.43125 9.525)
@@ -15259,7 +15259,7 @@
 		)
 		(fp_arc
 			(start 15.28125 7.500001)
-			(mid 15.134806 7.853571)
+			(mid 15.1348 7.853536)
 			(end 14.78125 8.000001)
 			(stroke
 				(width 0.05)
@@ -15270,7 +15270,7 @@
 		)
 		(fp_arc
 			(start 14.780039 -5.999999)
-			(mid 15.133567 -5.853539)
+			(mid 15.133602 -5.853545)
 			(end 15.280039 -5.499999)
 			(stroke
 				(width 0.05)
@@ -15281,7 +15281,7 @@
 		)
 		(fp_arc
 			(start 9.03125 8.000001)
-			(mid 8.677729 7.853537)
+			(mid 8.677693 7.853543)
 			(end 8.53125 7.500001)
 			(stroke
 				(width 0.05)
@@ -15462,7 +15462,7 @@
 		(path "/210af953-2246-447d-966e-26d78a2fde86")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end -9.525 9.525)
@@ -15741,7 +15741,7 @@
 		(path "/41f75315-f6f6-4767-8282-616e0c3ca347")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 9.525 9.525)
 			(end 9.525 -9.525)
@@ -16019,7 +16019,7 @@
 		(path "/7cd6d030-e04b-4a4b-9488-34f8a578aa6e")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -11.90625 -9.525)
 			(end -11.90625 9.525)
@@ -16298,7 +16298,7 @@
 		(path "/d7a72f4c-edd6-4487-871f-4415eb76b179")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end -9.525 9.525)
@@ -61868,7 +61868,7 @@
 		(path "/9a15805f-df7c-410a-b95f-f4661bb96872")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end -9.525 9.525)
@@ -62147,7 +62147,7 @@
 		(path "/9b9bf2ab-f08a-41cf-8210-14bb385cdd9c")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end -9.525 9.525)
@@ -63397,7 +63397,7 @@
 		(descr "Fuse SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "fuse")
 		(property "Reference" "F2"
-			(at 0 1.82 360)
+			(at 0 1.82 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "6bd9dd6f-187e-49d4-a85f-c20eac23802f")
@@ -63410,7 +63410,7 @@
 			)
 		)
 		(property "Value" "750 mA"
-			(at 0 -1.82 360)
+			(at 0 -1.82 0)
 			(layer "B.Fab")
 			(uuid "589af2a1-a704-4c3c-a75d-72e5b23eb120")
 			(effects
@@ -63422,7 +63422,7 @@
 			)
 		)
 		(property "Footprint" "Fuse:Fuse_1206_3216Metric"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e06c93f3-38ff-480a-82ee-1de41f90618b")
@@ -63434,7 +63434,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "01625610-ea97-4e1d-a00f-4e08e429a847")
@@ -63446,7 +63446,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ae10ea1c-6f67-401e-9a49-447b66202c22")
@@ -63576,7 +63576,7 @@
 			(uuid "a50a7197-b75c-48be-b5bc-27fbd7f57d57")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "109fe1cc-8471-4366-a3b1-94012008f98f")
 			(effects
@@ -74009,7 +74009,7 @@
 		(path "/2985a802-d2b9-42f9-8748-92599afc8175")
 		(sheetname "Root")
 		(sheetfile "pandemonium BLE e7 cutout.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -2.45 1.85)
 			(end 4.45 1.85)
@@ -79918,7 +79918,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C12"
-			(at 0 -1.975 360)
+			(at 0 -1.975 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "6e3f04fd-55d9-4d1d-9a3d-d3a44eb5af14")
@@ -90263,7 +90263,7 @@
 			)
 		)
 		(property "LCSC" "C88970"
-			(at 166.79625 -88.39125 360)
+			(at 166.79625 -88.39125 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "b701f307-30f6-4231-ae8a-ffb60b730441")
@@ -102111,20 +102111,21 @@
 				(xy 202.874402 36.273819) (xy 202.8745 36.27532) (xy 202.8745 36.469647) (xy 202.8745 36.555353)
 				(xy 202.8835 36.588944) (xy 202.89668 36.638133) (xy 202.896684 36.638143) (xy 202.903561 36.650055)
 				(xy 202.939535 36.712362) (xy 203.150138 36.922965) (xy 203.224361 36.965818) (xy 203.307147 36.988)
-				(xy 204.125501 36.988) (xy 204.133633 36.991368) (xy 204.137001 36.9995) (xy 204.137001 37.19402)
-				(xy 204.151852 37.287797) (xy 204.151853 37.2878) (xy 204.151854 37.287804) (xy 204.177045 37.337245)
-				(xy 204.181139 37.345279) (xy 204.181829 37.354054) (xy 204.176113 37.360747) (xy 204.170892 37.362)
-				(xy 203.370804 37.362) (xy 203.362672 37.358632) (xy 202.839606 36.835566) (xy 202.759687 36.789425)
-				(xy 202.759685 36.789424) (xy 202.759683 36.789423) (xy 202.759679 36.789422) (xy 202.759677 36.789421)
-				(xy 202.754887 36.788138) (xy 202.670539 36.765537) (xy 200.97728 36.765537) (xy 200.969148 36.762169)
-				(xy 200.96578 36.754037) (xy 200.969148 36.745905) (xy 201.023638 36.691413) (xy 201.105953 36.552227)
-				(xy 201.148425 36.406037) (xy 199.539413 36.406037) (xy 199.581884 36.552227) (xy 199.664199 36.691413)
-				(xy 199.678691 36.705905) (xy 199.682059 36.714037) (xy 199.678691 36.722169) (xy 199.670559 36.725537)
-				(xy 198.679836 36.725537) (xy 198.67982 36.725536) (xy 198.679123 36.725536) (xy 198.576303 36.725536)
-				(xy 198.476991 36.752146) (xy 198.476981 36.75215) (xy 198.38794 36.803558) (xy 196.392371 38.799126)
-				(xy 196.384239 38.802494) (xy 196.376107 38.799126) (xy 196.37274 38.790997) (xy 196.375449 36.944184)
-				(xy 196.378829 36.936058) (xy 196.386949 36.932702) (xy 196.723951 36.932702) (xy 196.806737 36.91052)
-				(xy 196.88096 36.867667) (xy 198.382259 35.366368) (xy 198.390391 35.363) (xy 200.046903 35.363)
+				(xy 203.392853 36.988) (xy 204.125501 36.988) (xy 204.133633 36.991368) (xy 204.137001 36.9995)
+				(xy 204.137001 37.19402) (xy 204.151852 37.287797) (xy 204.151853 37.2878) (xy 204.151854 37.287804)
+				(xy 204.177045 37.337245) (xy 204.181139 37.345279) (xy 204.181829 37.354054) (xy 204.176113 37.360747)
+				(xy 204.170892 37.362) (xy 203.370804 37.362) (xy 203.362672 37.358632) (xy 202.839606 36.835566)
+				(xy 202.759687 36.789425) (xy 202.759685 36.789424) (xy 202.759683 36.789423) (xy 202.759679 36.789422)
+				(xy 202.759677 36.789421) (xy 202.754887 36.788138) (xy 202.670539 36.765537) (xy 200.97728 36.765537)
+				(xy 200.969148 36.762169) (xy 200.96578 36.754037) (xy 200.969148 36.745905) (xy 201.023638 36.691413)
+				(xy 201.105953 36.552227) (xy 201.148425 36.406037) (xy 199.539413 36.406037) (xy 199.581884 36.552227)
+				(xy 199.664199 36.691413) (xy 199.678691 36.705905) (xy 199.682059 36.714037) (xy 199.678691 36.722169)
+				(xy 199.670559 36.725537) (xy 198.679836 36.725537) (xy 198.67982 36.725536) (xy 198.679123 36.725536)
+				(xy 198.576303 36.725536) (xy 198.476991 36.752146) (xy 198.476981 36.75215) (xy 198.38794 36.803558)
+				(xy 196.392371 38.799126) (xy 196.384239 38.802494) (xy 196.376107 38.799126) (xy 196.37274 38.790997)
+				(xy 196.375449 36.944184) (xy 196.378829 36.936058) (xy 196.386949 36.932702) (xy 196.723951 36.932702)
+				(xy 196.806737 36.91052) (xy 196.88096 36.867667) (xy 198.382259 35.366368) (xy 198.390391 35.363)
+				(xy 200.046903 35.363)
 			)
 		)
 		(filled_polygon

@@ -244,7 +244,7 @@
 		(path "/6fd61ab6-f329-4503-b0b3-34a5cda182cb/c92816c9-98c3-44b3-b9d6-263603d4972f")
 		(sheetname "mounting holes")
 		(sheetfile "mounting holes.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 2.2 2.2)
@@ -321,7 +321,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/1fa44e88-9312-401f-9c65-90570218dc4f")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 6.467 0)
@@ -958,7 +958,7 @@
 		(path "/6fd61ab6-f329-4503-b0b3-34a5cda182cb/f8451efd-1bfa-431a-b068-7b61a610cb0e")
 		(sheetname "mounting holes")
 		(sheetfile "mounting holes.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 2.2 2.2)
@@ -3882,7 +3882,7 @@
 		(path "/6fd61ab6-f329-4503-b0b3-34a5cda182cb/ad73c7ec-f6ee-45b9-a108-9e6591e0ed03")
 		(sheetname "mounting holes")
 		(sheetfile "mounting holes.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 2.2 2.2)
@@ -3959,7 +3959,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/e428a7f0-4703-4adc-9847-5de0f32087a0")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 6.467 0)
@@ -4596,7 +4596,7 @@
 		(path "/6fd61ab6-f329-4503-b0b3-34a5cda182cb/3938127d-4429-45e5-81d6-99e2def60e78")
 		(sheetname "mounting holes")
 		(sheetfile "mounting holes.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 2.2 2.2)
@@ -4673,7 +4673,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/8c4c09e8-eb97-4024-b70c-076ac3276480")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 6.467 0)
@@ -5309,7 +5309,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/c6aca932-e73d-4b29-83ea-21a16cb9df7f")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 6.467 0)
@@ -5945,7 +5945,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/8c32fd6d-21da-45d1-9545-ac10fcc68059")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 6.467 0)
@@ -6582,7 +6582,7 @@
 		(path "/6fd61ab6-f329-4503-b0b3-34a5cda182cb/1df808f3-49ab-4eb9-afce-f5e58fe35c05")
 		(sheetname "mounting holes")
 		(sheetfile "mounting holes.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 2.2 2.2)
@@ -6660,7 +6660,7 @@
 		(path "/6fd61ab6-f329-4503-b0b3-34a5cda182cb/70e04fe4-8f08-4267-a728-6d8d620cc2e4")
 		(sheetname "mounting holes")
 		(sheetfile "mounting holes.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 2.2 2.2)
@@ -6737,7 +6737,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/9eab52c3-dd7c-4f0b-9e7f-bbdddee37bf6")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 6.467 0)
@@ -7374,7 +7374,7 @@
 		(path "/6fd61ab6-f329-4503-b0b3-34a5cda182cb/dbf41fa7-33ca-4460-a55c-902ade91efec")
 		(sheetname "mounting holes")
 		(sheetfile "mounting holes.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 2.2 2.2)
@@ -7452,7 +7452,7 @@
 		(path "/6fd61ab6-f329-4503-b0b3-34a5cda182cb/e151baba-6e54-4ed6-9d1c-0ec40bdde7b2")
 		(sheetname "mounting holes")
 		(sheetfile "mounting holes.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 2.2 2.2)
@@ -7529,7 +7529,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/3c5b6a15-6e48-465f-b4bf-dcb6f54da90a")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 6.467 0)
@@ -8165,7 +8165,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/d5c7c599-3311-493e-8e04-3a202f167e26")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center -4.7663 0)
 			(end 1.7007 0)
@@ -9220,7 +9220,7 @@
 		(path "/6fd61ab6-f329-4503-b0b3-34a5cda182cb/973abde1-2ebe-451a-8518-ad12aafe22c4")
 		(sheetname "mounting holes")
 		(sheetfile "mounting holes.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 2.2 2.2)
@@ -9298,7 +9298,7 @@
 		(path "/6fd61ab6-f329-4503-b0b3-34a5cda182cb/796037e3-58fb-488b-9faf-69dd42340de4")
 		(sheetname "mounting holes")
 		(sheetfile "mounting holes.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 2.2 2.2)
@@ -9376,7 +9376,7 @@
 		(path "/6fd61ab6-f329-4503-b0b3-34a5cda182cb/fd7a4199-7dc1-4fe5-aad3-524ff8927cf8")
 		(sheetname "mounting holes")
 		(sheetfile "mounting holes.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 2.2 2.2)
@@ -9453,7 +9453,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/b011c154-39d6-4fcc-8abf-644c01b83e3b")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 6.467 0)
@@ -10089,7 +10089,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/23fad0e9-9f92-4e14-b583-a8ad45177b2f")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 6.467 0)
@@ -10725,7 +10725,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/f10343c9-31f8-4510-a29e-704f1ff029b0")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 28.575 -9.525)
 			(end 28.575 9.525)
@@ -11148,7 +11148,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/2da729a3-32b1-4466-8852-8baf632fe8e9")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 28.575 -9.525)
 			(end 28.575 9.525)
@@ -11736,7 +11736,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/e3107e0b-9501-454f-9041-2ec5b3530128")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 6.467 0)
@@ -12373,7 +12373,7 @@
 		(path "/6fd61ab6-f329-4503-b0b3-34a5cda182cb/514c01e8-1984-427d-a7c2-48a5b65dd4bd")
 		(sheetname "mounting holes")
 		(sheetfile "mounting holes.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 2.2 2.2)
@@ -12450,7 +12450,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/02bb48dc-6f86-4d77-b90d-4a40e4b9b48c")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 6.467 0)
@@ -13086,7 +13086,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/a650b618-c2e9-46e2-b8d7-f978dbcb6022")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 6.467 0)
@@ -13714,7 +13714,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/30e41c43-01f3-46b3-9911-1fc380c149e5")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 6.467 0)
@@ -14351,7 +14351,7 @@
 		(path "/6fd61ab6-f329-4503-b0b3-34a5cda182cb/7aaa9733-3ce8-4c44-b496-6e801f144883")
 		(sheetname "mounting holes")
 		(sheetfile "mounting holes.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 2.2 2.2)
@@ -14428,7 +14428,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/994dfe77-c0f9-4eeb-adfc-c80b9c4f5133")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 6.467 0)
@@ -15064,7 +15064,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/a97e83d5-6196-4bca-ace7-4ae2b783690a")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 6.467 0)
@@ -15700,7 +15700,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/aafaaa64-8435-4e8c-bb1d-e6788dcb89a2")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 6.467 0)
@@ -16336,7 +16336,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/91e702a7-bcff-4014-a584-77d8f065fb6e")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 6.467 0)
@@ -16972,7 +16972,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/0dc76920-9779-4ce2-aba2-a7b9f528546a")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 6.467 0)
@@ -17608,7 +17608,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/105fbe04-37fa-45e8-aeef-8b9b2cc73cf1")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 6.467 0)
@@ -18244,7 +18244,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/42d9e512-41c3-4cac-8348-19673d368abe")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 6.467 0)
@@ -18881,7 +18881,7 @@
 		(path "/6fd61ab6-f329-4503-b0b3-34a5cda182cb/0aa6ff41-7e37-4a0e-a9cb-68e67b4cf552")
 		(sheetname "mounting holes")
 		(sheetfile "mounting holes.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 2.2 2.2)
@@ -18958,7 +18958,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/2b43b845-1a00-4d16-8d58-524e170a682e")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 6.467 0)
@@ -19594,7 +19594,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/13067cfc-2263-404e-a278-c4b8cfa5ae0b")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 21.43125 -9.525)
 			(end 21.43125 9.525)
@@ -19797,7 +19797,7 @@
 		)
 		(fp_arc
 			(start 15.28125 7.500001)
-			(mid 15.1348 7.853536)
+			(mid 15.134806 7.853571)
 			(end 14.78125 8.000001)
 			(stroke
 				(width 0.05)
@@ -19808,7 +19808,7 @@
 		)
 		(fp_arc
 			(start 14.780039 -5.999999)
-			(mid 15.133602 -5.853545)
+			(mid 15.133567 -5.853539)
 			(end 15.280039 -5.499999)
 			(stroke
 				(width 0.05)
@@ -19819,7 +19819,7 @@
 		)
 		(fp_arc
 			(start 9.03125 8.000001)
-			(mid 8.677693 7.853543)
+			(mid 8.677729 7.853537)
 			(end 8.53125 7.500001)
 			(stroke
 				(width 0.05)
@@ -20017,7 +20017,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/5cdaa4a4-9b84-4223-9e4b-74b43c33a00b")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 6.467 0)
@@ -20653,7 +20653,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/f0b9ee75-9be2-44cf-b46f-3189744e156c")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 6.467 0)
@@ -21289,7 +21289,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/1f688b3d-e182-4092-9037-f66826112158")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 21.43125 -9.525)
 			(end 21.43125 9.525)
@@ -21492,7 +21492,7 @@
 		)
 		(fp_arc
 			(start 15.28125 7.500001)
-			(mid 15.1348 7.853536)
+			(mid 15.134806 7.853571)
 			(end 14.78125 8.000001)
 			(stroke
 				(width 0.05)
@@ -21503,7 +21503,7 @@
 		)
 		(fp_arc
 			(start 14.780039 -5.999999)
-			(mid 15.133602 -5.853545)
+			(mid 15.133567 -5.853539)
 			(end 15.280039 -5.499999)
 			(stroke
 				(width 0.05)
@@ -21514,7 +21514,7 @@
 		)
 		(fp_arc
 			(start 9.03125 8.000001)
-			(mid 8.677693 7.853543)
+			(mid 8.677729 7.853537)
 			(end 8.53125 7.500001)
 			(stroke
 				(width 0.05)
@@ -21713,7 +21713,7 @@
 		(path "/6fd61ab6-f329-4503-b0b3-34a5cda182cb/a043063f-827f-4dd8-80f8-5a8d885370a1")
 		(sheetname "mounting holes")
 		(sheetfile "mounting holes.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 2.2 2.2)
@@ -21790,7 +21790,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/1d10931f-4d72-4727-b90b-92a43974f687")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 6.467 0)
@@ -22426,7 +22426,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/af331c56-58ed-4565-a452-fcde60a9c452")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -16.66875 -19.05)
 			(end -16.66875 0)
@@ -22869,7 +22869,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/6a0744a0-11f7-462d-97f9-0bc113c2d53e")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 6.467 0)
@@ -23505,7 +23505,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/5572be33-c04a-4b4a-b423-becf49e590f0")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 6.467 0)
@@ -24142,7 +24142,7 @@
 		(path "/6fd61ab6-f329-4503-b0b3-34a5cda182cb/df845e21-549c-4283-b929-7bc940f4ff46")
 		(sheetname "mounting holes")
 		(sheetfile "mounting holes.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 2.2 2.2)
@@ -24219,7 +24219,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/9319f4e9-8516-435f-9d00-6eee69ab6278")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 6.467 0)
@@ -24855,7 +24855,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/b29341b4-5919-4f34-b2c8-1fe7c3c4b2b7")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 6.467 0)
@@ -25907,7 +25907,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/17409b93-9f59-47f7-b0c4-544dc161f29b")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 6.467 0)
@@ -26543,7 +26543,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/f1ed1d07-a010-42cb-ac0f-78399416de76")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 6.467 0)
@@ -27179,7 +27179,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/eb0b0a38-211a-4bda-82c4-846da16a196b")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 6.467 0)
@@ -27977,7 +27977,7 @@
 		(path "/6fd61ab6-f329-4503-b0b3-34a5cda182cb/5daec4bc-9771-43ea-8f17-dc356ddaf5e4")
 		(sheetname "mounting holes")
 		(sheetfile "mounting holes.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 2.2 2.2)
@@ -28055,7 +28055,7 @@
 		(path "/6fd61ab6-f329-4503-b0b3-34a5cda182cb/c52254cb-d1ec-4bfd-979f-929a41aba03d")
 		(sheetname "mounting holes")
 		(sheetfile "mounting holes.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 2.2 2.2)
@@ -28133,7 +28133,7 @@
 		(path "/6fd61ab6-f329-4503-b0b3-34a5cda182cb/2d9556e6-aa3a-4923-8d8c-d129bc5e9c12")
 		(sheetname "mounting holes")
 		(sheetfile "mounting holes.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 2.2 2.2)
@@ -28210,7 +28210,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/d43b7699-3de8-46c2-9366-bf6a60a9ebd9")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 6.467 0)
@@ -28847,7 +28847,7 @@
 		(path "/6fd61ab6-f329-4503-b0b3-34a5cda182cb/7fca37a8-3eae-4554-aa7d-c1d89698b817")
 		(sheetname "mounting holes")
 		(sheetfile "mounting holes.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 2.2 2.2)
@@ -28924,7 +28924,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/cdd3e34b-979a-4c9a-81ff-419ffc19e523")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 6.467 0)
@@ -29560,7 +29560,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/89dc30c2-628b-4055-9798-688748827e60")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 6.467 0)
@@ -30196,7 +30196,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/0115d6f6-cf25-4ccd-aabd-621115ee1962")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center -4.7625 0)
 			(end 1.7045 0)
@@ -31716,7 +31716,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/fa05b188-0181-4273-86cd-7cd7b6193a94")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 6.467 0)
@@ -32352,7 +32352,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/be4d26ca-308e-4238-aa1f-b6ec5871d912")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 6.467 0)
@@ -32989,7 +32989,7 @@
 		(path "/6fd61ab6-f329-4503-b0b3-34a5cda182cb/15ccc101-ad2d-40c2-a10d-62aa8b46c1c0")
 		(sheetname "mounting holes")
 		(sheetfile "mounting holes.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 2.2 2.2)
@@ -33066,7 +33066,7 @@
 		(path "/eafffced-deac-4df0-8a11-48da2cad2ba9/005a94d9-f74b-47df-810c-b471ab8950ad")
 		(sheetname "matrix")
 		(sheetfile "matrix.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 6.467 0)
@@ -48886,6 +48886,18 @@
 					(thickness 0.15)
 				)
 				(justify mirror)
+			)
+		)
+		(property "LCSC" "C160404"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "5bde3c80-0f12-41c8-a190-8fa22851d607")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
